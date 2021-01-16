@@ -7,3 +7,4 @@
 - Unit Tests (8 hour)
 - Deploy to cloud (4 hour)
 - Ask Petya to test it :) (Infinite)
+- Bug fix :)
