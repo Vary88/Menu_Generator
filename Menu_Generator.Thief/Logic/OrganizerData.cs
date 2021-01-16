@@ -34,9 +34,9 @@ namespace Menu_Generator.Thief.Logic
         private static bool soldOut = default(bool);
         #endregion
         #region public method
-        public static List<Product> Organizer(List<string[]> downloadData)
+        public static List<Product> Organizer(DownLoadedData downloadData)
         {
-            foreach (string[] arrayData in downloadData)
+            foreach (string[] arrayData in downloadData.Data)
             {
                 if (isBreak)
                 {

@@ -5,13 +5,20 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
+using Menu_Generator.Thief.Model;
+
 namespace Menu_Generator.Thief.Logic
 {
     public class DownloadData
     {
-        private DownloadData() { }
+        private DownloadData() 
+        {
+
+        }
+
         private static string url = "https://egeszsegkonyha.hu/index.php/etlapunk?week=2020";
-        public static List<string[]> Get()
+        
+        public static DownLoadedData Get()
         {
             SetCurrentWeek();
             List<string[]> importantData = new List<string[]>();
@@ -46,7 +53,8 @@ namespace Menu_Generator.Thief.Logic
                 }
                 importantData.Add(tempLines);
             }
-            return importantData;
+
+            return new DownLoadedData(importantData);
         }
         private static void SetCurrentWeek()
         {
