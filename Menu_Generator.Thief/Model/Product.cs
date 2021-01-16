@@ -6,59 +6,55 @@ namespace Menu_Generator.Thief.Model
 {
     public class Product
     {
-        private Product() { }
-        public string Code { get; set; }
-        public string Category { get; set; }
-        public string SubCategory { get; set; }
-        public int Price { get; set; }
-        public bool WeeklyMenu { get; set; }
-        public string Details { get; set; }
-        public string WhichDay { get; set; }
-        public bool? SoldOut { get; set; }
-        public int? Calorie { get; set; }
-        public int? Carbohydrate { get; set; }
-        public int? Sugar { get; set; }
-        public int? Protein { get; set; }
-        public int? Fat { get; set; }
-        public int? SaturatedFattyAcid { get; set; }
-        public int? Salt { get; set; }
-
-        public static Product Create
-            (
-            string code,
-            string category,
-            string subCategory,
-            int price,
-            bool weeklyMenu,
-            string details,
-            string whichDay,
-            bool? soldOut,
-            int? calorie,
-            int? Carbohydrate,
-            int? sugar,
-            int? protein,
-            int? fat,
-            int? saturatedFattyAcid,
-            int? salt
-            )
+        public Product(
+            string code = null,
+            string category = null,
+            string subCategory = null,
+            int? price = null,
+            bool? weeklyMenu = null,
+            string details = null,
+            string whichDay = null,
+            bool? soldOut = null,
+            int? calorie = null,
+            int? carbohydrate = null,
+            int? sugar = null,
+            int? protein = null,
+            int? fat = null,
+            int? saturatedFattyAcid = null,
+            int? salt = null)
         {
-            Product result = new Product();
-            result.Code = code;
-            result.Category = category;
-            result.SubCategory = subCategory;
-            result.Price = price;
-            result.WeeklyMenu = weeklyMenu;
-            result.Details = details;
-            result.WhichDay = whichDay;
-            result.SoldOut = soldOut;
-            result.Calorie = calorie;
-            result.Carbohydrate = Carbohydrate;
-            result.Sugar = sugar;
-            result.Protein = protein;
-            result.Fat = fat;
-            result.SaturatedFattyAcid = saturatedFattyAcid;
-            result.Salt = salt;
-            return result;
+            Code = code;
+            Category = category;
+            SubCategory = subCategory;
+            Price = price;
+            WeeklyMenu = weeklyMenu;
+            Details = details;
+            WhichDay = whichDay;
+            SoldOut = soldOut;
+            Calorie = calorie;
+            Carbohydrate = carbohydrate;
+            Sugar = sugar;
+            Protein = protein;
+            Fat = fat;
+            SaturatedFattyAcid = saturatedFattyAcid;
+            Salt = salt;
         }
+
+        public string Code { get; }
+        public string Category { get; }
+        public string SubCategory { get; }
+        public int? Price { get; }
+        public bool? WeeklyMenu { get; }
+        public string Details { get; }
+        public string WhichDay { get; }
+        public bool? SoldOut { get; }
+        public int? Calorie { get; }
+        public int? Carbohydrate { get; }
+        public int? Sugar { get; }
+        public int? Protein { get; }
+        public int? Fat { get; }
+        public int? SaturatedFattyAcid { get; }
+        public int? Salt { get; }
     }
 }
+

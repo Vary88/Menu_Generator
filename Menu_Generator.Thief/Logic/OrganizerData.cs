@@ -73,24 +73,11 @@ namespace Menu_Generator.Thief.Logic
                         {
                             PriceOrganizer(arrayData[i]);
                             weeklyMenu = true;
-                            products.Add(Product.Create
-                                (
-                                code,
-                                category,
-                                null,
-                                price,
-                                weeklyMenu,
-                                details,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null
-                                ));
+                            products.Add(new Product(code,
+                                    category: category,
+                                    price: price,
+                                    weeklyMenu: weeklyMenu,
+                                    details: details));
                         }
                     }
                     if (i > 4)
@@ -129,24 +116,21 @@ namespace Menu_Generator.Thief.Logic
                             weeklyMenu = false;
                             if (isRealProduct && !code.Contains("GM"))
                             {
-                                products.Add(Product.Create
-                                   (
-                                   code,
-                                   category,
-                                   subCategory,
-                                   price,
-                                   weeklyMenu,
-                                   details,
-                                   whichDay,
-                                   soldOut,
-                                   calorie,
-                                   carbohydrate,
-                                   sugar,
-                                   protein,
-                                   fat,
-                                   saturatedFattyAcid,
-                                   salt
-                                   ));
+                                products.Add(new Product(code,
+                                        category,
+                                        subCategory,
+                                        price,
+                                        weeklyMenu,
+                                        details,
+                                        whichDay,
+                                        soldOut,
+                                        calorie,
+                                        carbohydrate,
+                                        sugar,
+                                        protein,
+                                        fat,
+                                        saturatedFattyAcid,
+                                        salt));
                             }
                             tempWhichDayAssist = false;
                             if (tempWhichDay == 5)
