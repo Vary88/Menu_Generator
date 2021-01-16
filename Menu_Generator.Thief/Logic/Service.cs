@@ -8,11 +8,11 @@ namespace Menu_Generator.Thief.Logic
 {
     public class Service
     {
-        public static void Processor(string filePath)
+        public static void Processor(XmlRooting xmlRooting)
         {
-            DownLoadedData downloadData = DownloadData.Get();
+            DownLoadedData downloadData = DownloadData.Get(xmlRooting.SourceUrl);
             Products products = OrganizerData.Organizer(downloadData);
-            CreateXml.Create(products, filePath);
+            CreateXml.Create(products, xmlRooting.TargetFilePath);
         }
     }
 }
