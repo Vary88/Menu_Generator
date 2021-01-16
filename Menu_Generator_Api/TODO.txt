@@ -3,7 +3,7 @@
 - Job generate the combinations (to db or file), save these combinations in a file, and modify the logic to it (8 hour)
 - UI datepicker to choose a day, and modify the logic on server side (4 hour)
 - Create Design (8 hour)
-- Refactoring (5 hour)
+- Refactoring (5 hour) (without thief)
 - Unit Tests (8 hour)
 - Deploy to cloud (4 hour)
 - Ask Petya to test it :) (Infinite)
