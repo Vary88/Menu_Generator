@@ -1,14 +1,19 @@
-﻿using Menu_Generator.Thief.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
+
+using Menu_Generator.Thief.Model;
 
 namespace Menu_Generator.Thief.Logic
 {
     public class OrganizerData
     {
         #region constructor, variables
-        private OrganizerData() { }
+        private OrganizerData() 
+        {
+
+        }
+
         private static string categoryColor = string.Empty;
         private static List<Product> products = new List<Product>();
         private static int tempWhichDay = 1;
@@ -34,7 +39,7 @@ namespace Menu_Generator.Thief.Logic
         private static bool soldOut = default(bool);
         #endregion
         #region public method
-        public static List<Product> Organizer(DownLoadedData downloadData)
+        public static Products Organizer(DownLoadedData downloadData)
         {
             foreach (string[] arrayData in downloadData.Data)
             {
@@ -43,6 +48,7 @@ namespace Menu_Generator.Thief.Logic
                     isBreak = false;
                     break;
                 }
+                
                 for (int i = 0; i < arrayData.Length; i++)
                 {
                     if (i == 0)
@@ -55,6 +61,7 @@ namespace Menu_Generator.Thief.Logic
                             category = "AllFreeDessert";
                         }
                     }
+                    
                     if (i == 1)
                     {
                         if (code.Contains("M") && code != "MM" && !code.Contains("GM"))
@@ -67,6 +74,7 @@ namespace Menu_Generator.Thief.Logic
                             tempSubCategory = arrayData[i].Split("<i>")[1].Split("</i>")[0];
                         }
                     }
+                    
                     if (i == 2)
                     {
                         if (!arrayData[i].Contains("</i>"))
@@ -80,6 +88,7 @@ namespace Menu_Generator.Thief.Logic
                                     details: details));
                         }
                     }
+                    
                     if (i > 4)
                     {
                         if (arrayData[i].Contains("<td class=\"etlapcella col-nap"))
@@ -93,27 +102,33 @@ namespace Menu_Generator.Thief.Logic
                                 DetailsOrganizer(arrayData[i].Split("data-kaloria=")[1].Split("</span>")[0]);
                             }
                         }
+                        
                         if (arrayData[i].Contains("\"etlapar\">"))
                         {
                             isRealProduct = true;
                             PriceOrganizer(arrayData[i]);
                         }
+                        
                         if (arrayData[i].Contains("ELFOGYOTT!"))
                         {
                             soldOut = true;
                         }
+                        
                         if (arrayData[i] == "</td>")
                         {
                             if (!code.Contains("M") && !code.Contains("GM"))
                             {
                                 subCategory = tempSubCategory;
                             }
+                            
                             else
                             {
                                 subCategory = tempSubCategory.Split(" Heti Menü")[0];
                             }
+                            
                             DayOrganizer(tempWhichDay);
                             weeklyMenu = false;
+
                             if (isRealProduct && !code.Contains("GM"))
                             {
                                 products.Add(new Product(code,
@@ -133,18 +148,22 @@ namespace Menu_Generator.Thief.Logic
                                         salt));
                             }
                             tempWhichDayAssist = false;
+
                             if (tempWhichDay == 5)
                             {
                                 tempWhichDayAssist = true;
                                 tempWhichDay = 1;
                             }
+
                             if (!weeklyMenu && !tempWhichDayAssist && isRealProduct)
                             {
                                 tempWhichDay++;
                             }
+
                             isRealProduct = false;
                         }
                     }
+
                     if (arrayData[i].Contains("Fine Dining"))
                     {
                         isBreak = true;
@@ -152,14 +171,17 @@ namespace Menu_Generator.Thief.Logic
                     }
                 }
             }
-            return products;
+
+            return new Products(products);
         }
         #endregion
-        #region private methods
+
+        #region PrivateMethods
         private static void PriceOrganizer(string arrayData)
         {
             StringBuilder builder = new StringBuilder();
             string tempPrice = arrayData.Split("class=\"etlapar\">")[1].Split("Ft</div>")[0].Trim();
+            
             foreach (char item in tempPrice)
             {
                 if (item != ' ')
@@ -167,6 +189,7 @@ namespace Menu_Generator.Thief.Logic
                     builder.Append(item);
                 }
             }
+
             if (!Int32.TryParse(builder.ToString(), out price))
             {
                 price = 0;
@@ -177,6 +200,7 @@ namespace Menu_Generator.Thief.Logic
             string[] detailsElement = paramDetails.Split("data-cikkno=");
             details = detailsElement[1].Split("mealname\">")[1].Split("\"")[0];
             string[] ingredients = detailsElement[0].Split("=");
+
             for (int i = 0; i < ingredients.Length; i++)
             {
                 int ingredient = Convert.ToInt32(ingredients[i].Split(" ")[0]);

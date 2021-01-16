@@ -10,7 +10,7 @@ namespace Menu_Generator.Thief.Logic
     public class CreateXml
     {
         private CreateXml() { }
-        public static void Create(List<Product> products, string filePath)
+        public static void Create(Products products, string filePath)
         {
             XmlDocument doc = new XmlDocument();
             XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);
@@ -19,7 +19,7 @@ namespace Menu_Generator.Thief.Logic
             XmlElement xProducts = doc.CreateElement(string.Empty, "Produts", string.Empty);
             doc.AppendChild(xProducts);
 
-            foreach (Product product in products)
+            foreach (Product product in products.Items)
             {
                 XmlElement xProduct = doc.CreateElement(string.Empty, "Product", string.Empty);
                 xProducts.AppendChild(xProduct);
