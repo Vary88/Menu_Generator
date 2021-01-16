@@ -11,7 +11,7 @@ namespace Menu_Generator.Thief.Logic
     {
         private DownloadData() { }
         private static string url = "https://egeszsegkonyha.hu/index.php/etlapunk?week=2020";
-        public static List<string[]> Download()
+        public static List<string[]> Get()
         {
             SetCurrentWeek();
             List<string[]> importantData = new List<string[]>();
