@@ -10,7 +10,7 @@ namespace Menu_Generator.Thief.Logic
         public static void Processor(string filePath)
         {
             List<string[]> downloadData = DownloadData.Download();
-            List<ProductDajer> products = OrganizerData.Organizer(downloadData);
+            List<Product> products = OrganizerData.Organizer(downloadData);
             CreateXml.Create(products, filePath);
         }
     }

@@ -10,7 +10,7 @@ namespace Menu_Generator.Thief.Logic
         #region constructor, variables
         private OrganizerData() { }
         private static string categoryColor = string.Empty;
-        private static List<ProductDajer> products = new List<ProductDajer>();
+        private static List<Product> products = new List<Product>();
         private static int tempWhichDay = 1;
         private static bool tempWhichDayAssist = default(bool);
         private static string tempSubCategory = string.Empty;
@@ -34,7 +34,7 @@ namespace Menu_Generator.Thief.Logic
         private static bool soldOut = default(bool);
         #endregion
         #region public method
-        public static List<ProductDajer> Organizer(List<string[]> downloadData)
+        public static List<Product> Organizer(List<string[]> downloadData)
         {
             foreach (string[] arrayData in downloadData)
             {
@@ -73,7 +73,7 @@ namespace Menu_Generator.Thief.Logic
                         {
                             PriceOrganizer(arrayData[i]);
                             weeklyMenu = true;
-                            products.Add(ProductDajer.Create
+                            products.Add(Product.Create
                                 (
                                 code,
                                 category,
@@ -129,7 +129,7 @@ namespace Menu_Generator.Thief.Logic
                             weeklyMenu = false;
                             if (isRealProduct && !code.Contains("GM"))
                             {
-                                products.Add(ProductDajer.Create
+                                products.Add(Product.Create
                                    (
                                    code,
                                    category,

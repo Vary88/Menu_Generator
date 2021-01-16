@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Menu_Generator.Thief.Model
 {
-    public class ProductDajer
+    public class Product
     {
-        private ProductDajer() { }
+        private Product() { }
         public string Code { get; set; }
         public string Category { get; set; }
         public string SubCategory { get; set; }
@@ -23,7 +23,7 @@ namespace Menu_Generator.Thief.Model
         public int? SaturatedFattyAcid { get; set; }
         public int? Salt { get; set; }
 
-        public static ProductDajer Create
+        public static Product Create
             (
             string code,
             string category,
@@ -42,7 +42,7 @@ namespace Menu_Generator.Thief.Model
             int? salt
             )
         {
-            ProductDajer result = new ProductDajer();
+            Product result = new Product();
             result.Code = code;
             result.Category = category;
             result.SubCategory = subCategory;
