@@ -1,0 +1,80 @@
+﻿@model IndexVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Loader -->
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>
+
+<!-- Page Content -->
+<div class="container-fluid tm-main">
+    <div class="row tm-main-row">
+        <div class="col-xl-9 col-lg-8 col-md-12 col-sm-12 tm-content">
+
+            <!-- section 1 -->
+            <section id="tm-section-1" class="tm-section">
+                <form method="POST" id="menuForm">
+                    <div class="ml-auto">
+                        <label for="carboHydrate">Szénhidrát:</label>
+                        <input type="number" id="carboHydrate" name="carboHydrate" placeholder="Ha nem fontos, hagyd üresen" />
+                        <input type="number" id="carboHydrateFlexibility" name="carboHydrateFlexibility" />
+                    </div>
+                    <div class="ml-auto">
+                        <label for="protein">Fehérje:</label>
+                        <input type="number" id="protein" name="protein" placeholder="Ha nem fontos, hagyd üresen" />
+                        <input type="number" id="proteinFlexibility" name="proteinFlexibility" />
+                    </div>
+                    <div class="ml-auto">
+                        <label for="fat">Zsír:</label>
+                        <input type="number" id="fat" name="fat" placeholder="Ha nem fontos, hagyd üresen" />
+                        <input type="number" id="fatFlexibility" name="fatFlexibility" />
+                    </div>
+
+                    @foreach (var menu in Model.Menus)
+                    {
+                        @foreach (var food in menu)
+                        {
+                            <div>
+                                @food.Name
+                            </div>
+                            <br />
+                        }
+
+                        <div>----------------------------------------------------------------------</div>
+                    }
+
+                    <input type="submit" id="btnGetMenu" value="Menü összeállítása!">
+                </form>
+
+            </section>
+        </div>	<!-- .tm-content -->
+        <footer class="footer-link">
+            <p class="tm-copyright-text">
+                Copyright &copy; 2018 Constructive Co. Ltd.
+
+                - Design: Tooplate
+            </p>
+        </footer>
+    </div>	<!-- row -->
+</div>
+<div id="preload-01"></div>
+<div id="preload-02"></div>
+<div id="preload-03"></div>
+<div id="preload-04"></div>
+
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script> <!-- Slick Carousel -->
+
+<script>
+
+    $(document).ready(function () {
+        //TODO: a categoryfilter részt + gombra kattintva kigenerálni
+    })
+
+</script>

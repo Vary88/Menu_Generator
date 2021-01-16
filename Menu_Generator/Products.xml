@@ -1,0 +1,5311 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <code>M0</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>3700</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Tej-Tojásmentes Zóna /Leves 250ml Főétel 250g Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M0</code>
+    <category>Menu</category>
+    <subCategory>Tej-Tojásmentes Zóna /Leves 250ml Főétel 250g</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros zöldségleves, Vöröslencsefőzelék, Csirke nuggets</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>724</calorie>
+    <carbohydrate>64</carbohydrate>
+    <sugar>1</sugar>
+    <protein>29</protein>
+    <fat>38</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M0</code>
+    <category>Menu</category>
+    <subCategory>Tej-Tojásmentes Zóna /Leves 250ml Főétel 250g</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hamis húsleves, Zöldborsós pulykatokány, jázmin rizs</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>571</calorie>
+    <carbohydrate>68</carbohydrate>
+    <sugar>0</sugar>
+    <protein>22</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M0</code>
+    <category>Menu</category>
+    <subCategory>Tej-Tojásmentes Zóna /Leves 250ml Főétel 250g</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zelleres paradicsomleves, Sült csirke felsőcomb, petrezselymes burgonya</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>765</calorie>
+    <carbohydrate>75</carbohydrate>
+    <sugar>23</sugar>
+    <protein>39</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>M0</code>
+    <category>Menu</category>
+    <subCategory>Tej-Tojásmentes Zóna /Leves 250ml Főétel 250g</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldbableves (tejmentes), Alföldi tarhonyáshús</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>628</calorie>
+    <carbohydrate>56</carbohydrate>
+    <sugar>4</sugar>
+    <protein>24</protein>
+    <fat>34</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>10</salt>
+  </product>
+  <product>
+    <code>M0</code>
+    <category>Menu</category>
+    <subCategory>Tej-Tojásmentes Zóna /Leves 250ml Főétel 250g</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Gulyásleves, Diós metélt</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>663</calorie>
+    <carbohydrate>82</carbohydrate>
+    <sugar>14</sugar>
+    <protein>27</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>M1</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>7150</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Ínyenc /Leves 250ml Főétel 400g Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M1</code>
+    <category>Menu</category>
+    <subCategory>Ínyenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tojásleves, Görögös göngyölt csirkemell, pirított kockaburgonya, Rákóczi túrós</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1316</calorie>
+    <carbohydrate>130</carbohydrate>
+    <sugar>1</sugar>
+    <protein>59</protein>
+    <fat>57</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M1</code>
+    <category>Menu</category>
+    <subCategory>Ínyenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1490</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hideg meggyleves, Rántott sertésborda, rizi-bizi, Sárgarépás káposztasaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1377</calorie>
+    <carbohydrate>181</carbohydrate>
+    <sugar>35</sugar>
+    <protein>53</protein>
+    <fat>47</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M1</code>
+    <category>Menu</category>
+    <subCategory>Ínyenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tavaszi csirkeragu leves, Sült csirkecomb, petrezselymes burgonya, Uborkasaláta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>966</calorie>
+    <carbohydrate>76</carbohydrate>
+    <sugar>0</sugar>
+    <protein>75</protein>
+    <fat>35</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>11</salt>
+  </product>
+  <product>
+    <code>M1</code>
+    <category>Menu</category>
+    <subCategory>Ínyenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1890</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsleves gazdagon, Zöldborsófőzelék, rántott csirkemell, Feketeerdő torta</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1114</calorie>
+    <carbohydrate>116</carbohydrate>
+    <sugar>48</sugar>
+    <protein>51</protein>
+    <fat>48</fat>
+    <saturatedFattyAcid>18</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>M1</code>
+    <category>Menu</category>
+    <subCategory>Ínyenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1490</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Burgonyagombóc leves, Vörösboros marhalábszárpörkölt, tarhonya, Csalamádé</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>925</calorie>
+    <carbohydrate>97</carbohydrate>
+    <sugar>12</sugar>
+    <protein>51</protein>
+    <fat>35</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>11</salt>
+  </product>
+  <product>
+    <code>M2</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>5250</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Kedvenc /Leves 250ml Főétel 400g Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M2</code>
+    <category>Menu</category>
+    <subCategory>Kedvenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros zöldségleves, Toros káposzta XXL</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>990</calorie>
+    <carbohydrate>26</carbohydrate>
+    <sugar>7</sugar>
+    <protein>46</protein>
+    <fat>74</fat>
+    <saturatedFattyAcid>12</saturatedFattyAcid>
+    <salt>22</salt>
+  </product>
+  <product>
+    <code>M2</code>
+    <category>Menu</category>
+    <subCategory>Kedvenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros gombaleves, Húsos rakott karfiol</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>920</calorie>
+    <carbohydrate>57</carbohydrate>
+    <sugar>2</sugar>
+    <protein>40</protein>
+    <fat>57</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M2</code>
+    <category>Menu</category>
+    <subCategory>Kedvenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1140</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszínes sárgabarackleves, Csirkemell paprikás, galuska</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1003</calorie>
+    <carbohydrate>132</carbohydrate>
+    <sugar>31</sugar>
+    <protein>53</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M2</code>
+    <category>Menu</category>
+    <subCategory>Kedvenc /Leves 250ml Főétel 400g</subCategory>
+    <price>890</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsleves gazdagon, Tejfölös krumplistészta lyoni hagymával</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>764</calorie>
+    <carbohydrate>111</carbohydrate>
+    <sugar>5</sugar>
+    <protein>29</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M2</code>
+    <category>Menu</category>
+    <subCategory>Kedvenc /Leves 250ml Főétel 400g</subCategory>
+    <price>1240</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zúzaleves lúdgége tésztával, Tökmagos rántott csirkemell, fűszeres rizs</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1322</calorie>
+    <carbohydrate>127</carbohydrate>
+    <sugar>0</sugar>
+    <protein>64</protein>
+    <fat>44</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M31</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>3500</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Szünidő menü /Főétel 250g Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M31</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Főétel 250g</subCategory>
+    <price>770</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sárgaborsófőzelék, sertéspörkölt feltét, Puding</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>432</calorie>
+    <carbohydrate>44</carbohydrate>
+    <sugar>1</sugar>
+    <protein>29</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M31</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Főétel 250g</subCategory>
+    <price>770</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paprikás krumpli virslivel, Gyümölcslé</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>479</calorie>
+    <carbohydrate>33</carbohydrate>
+    <sugar>0</sugar>
+    <protein>13</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M31</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Főétel 250g</subCategory>
+    <price>770</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Parajfőzelék, főtt tojás, Csokis fánk (1 db)</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>568</calorie>
+    <carbohydrate>47</carbohydrate>
+    <sugar>9</sugar>
+    <protein>18</protein>
+    <fat>33</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M31</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Főétel 250g</subCategory>
+    <price>770</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zizu kedvence (rántott csirkemell), Rizi-bizi, Gyümölcs</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>567</calorie>
+    <carbohydrate>61</carbohydrate>
+    <sugar>1</sugar>
+    <protein>27</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M31</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Főétel 250g</subCategory>
+    <price>770</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Mini fasírtgolyók, paradicsomos spagetti, Karamellás pöttyös guru</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>2086</calorie>
+    <carbohydrate>83</carbohydrate>
+    <sugar>7</sugar>
+    <protein>29</protein>
+    <fat>44</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M32</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>3700</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Szünidő menü /Leves 250ml Főétel 250g/ Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M32</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Leves 250ml Főétel 250g/</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros zöldségleves, Sárgaborsófőzelék, sertéspörkölt feltét</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>521</calorie>
+    <carbohydrate>56</carbohydrate>
+    <sugar>1</sugar>
+    <protein>32</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M32</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Leves 250ml Főétel 250g/</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hamis húsleves, Paprikás krumpli virslivel</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>530</calorie>
+    <carbohydrate>42</carbohydrate>
+    <sugar>0</sugar>
+    <protein>15</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>M32</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Leves 250ml Főétel 250g/</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejfölös burgonyaleves, Parajfőzelék, főtt tojás</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>466</calorie>
+    <carbohydrate>32</carbohydrate>
+    <sugar>4</sugar>
+    <protein>16</protein>
+    <fat>30</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M32</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Leves 250ml Főétel 250g/</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Bécsi krémleves, Zizu kedvence (rántott csirkemell), Rizi-bizi</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>708</calorie>
+    <carbohydrate>76</carbohydrate>
+    <sugar>1</sugar>
+    <protein>31</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M32</code>
+    <category>Menu</category>
+    <subCategory>Szünidő menü /Leves 250ml Főétel 250g/</subCategory>
+    <price>810</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Fahéjas almaleves, Mini fasírtgolyók, paradicsomos spagetti</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>638</calorie>
+    <carbohydrate>76</carbohydrate>
+    <sugar>33</sugar>
+    <protein>23</protein>
+    <fat>28</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M4</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>4350</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Zóna /Leves 250ml Főétel 250g/ Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M4</code>
+    <category>Menu</category>
+    <subCategory>Zóna /Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csülkös bableves, Ízes rolád, vanília öntet</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>836</calorie>
+    <carbohydrate>92</carbohydrate>
+    <sugar>24</sugar>
+    <protein>25</protein>
+    <fat>41</fat>
+    <saturatedFattyAcid>10</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M4</code>
+    <category>Menu</category>
+    <subCategory>Zóna /Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros gombaleves, Sült csirkemell, meggymártás, bulgur</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>599</calorie>
+    <carbohydrate>67</carbohydrate>
+    <sugar>21</sugar>
+    <protein>34</protein>
+    <fat>21</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M4</code>
+    <category>Menu</category>
+    <subCategory>Zóna /Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszínes sárgabarackleves, Sztroganoff pulykatokány, jázmin  rizs</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>779</calorie>
+    <carbohydrate>81</carbohydrate>
+    <sugar>28</sugar>
+    <protein>22</protein>
+    <fat>40</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M4</code>
+    <category>Menu</category>
+    <subCategory>Zóna /Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsleves gazdagon, Sonkás juhtúrós rakott burgonya</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>553</calorie>
+    <carbohydrate>49</carbohydrate>
+    <sugar>2</sugar>
+    <protein>31</protein>
+    <fat>24</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M4</code>
+    <category>Menu</category>
+    <subCategory>Zóna /Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Burgonyagombóc leves, Vörösboros marhalábszárpörkölt, tarhonya</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>535</calorie>
+    <carbohydrate>63</carbohydrate>
+    <sugar>5</sugar>
+    <protein>28</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M5</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>5650</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Vegetáriánus / Leves 250ml Főétel 400g/ Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M5</code>
+    <category>Menu</category>
+    <subCategory>Vegetáriánus / Leves 250ml Főétel 400g/</subCategory>
+    <price>1440</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Gesztenyés csicserileves (vegán), Tofuburger (vegán bucival)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>643</calorie>
+    <carbohydrate>85</carbohydrate>
+    <sugar>4</sugar>
+    <protein>30</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M5</code>
+    <category>Menu</category>
+    <subCategory>Vegetáriánus / Leves 250ml Főétel 400g/</subCategory>
+    <price>1290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hideg meggyleves, Vegán Szejtán rizottó (magyarosan)</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>945</calorie>
+    <carbohydrate>137</carbohydrate>
+    <sugar>42</sugar>
+    <protein>28</protein>
+    <fat>30</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>M5</code>
+    <category>Menu</category>
+    <subCategory>Vegetáriánus / Leves 250ml Főétel 400g/</subCategory>
+    <price>1040</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejfölös burgonyaleves, Parajfőzelék*, főtt tojás</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>650</calorie>
+    <carbohydrate>48</carbohydrate>
+    <sugar>7</sugar>
+    <protein>27</protein>
+    <fat>38</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M5</code>
+    <category>Menu</category>
+    <subCategory>Vegetáriánus / Leves 250ml Főétel 400g/</subCategory>
+    <price>1140</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldbableves (tejmentes), Marokkói zöldséges kuszkusz (vegán)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>712</calorie>
+    <carbohydrate>121</carbohydrate>
+    <sugar>0</sugar>
+    <protein>29</protein>
+    <fat>13</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M5</code>
+    <category>Menu</category>
+    <subCategory>Vegetáriánus / Leves 250ml Főétel 400g/</subCategory>
+    <price>1440</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vegán fejtettbab leves virslivel, Hamis túrógombóc (vegán), gyümölcsöntet</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>702</calorie>
+    <carbohydrate>89</carbohydrate>
+    <sugar>7</sugar>
+    <protein>44</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M6</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>4350</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Nyugdíjas /Leves 250ml Főétel 350g/ Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M6</code>
+    <category>Menu</category>
+    <subCategory>Nyugdíjas /Leves 250ml Főétel 350g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csülkös bableves, Tejberizs csokiöntettel</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1032</calorie>
+    <carbohydrate>152</carbohydrate>
+    <sugar>80</sugar>
+    <protein>32</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>11</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>M6</code>
+    <category>Menu</category>
+    <subCategory>Nyugdíjas /Leves 250ml Főétel 350g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hamis húsleves, Eszterházy csirketokány, jázmin rizs</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>799</calorie>
+    <carbohydrate>103</carbohydrate>
+    <sugar>11</sugar>
+    <protein>37</protein>
+    <fat>24</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>M6</code>
+    <category>Menu</category>
+    <subCategory>Nyugdíjas /Leves 250ml Főétel 350g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zelleres paradicsomleves, Csirkemellpaprikás, Tészta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>701</calorie>
+    <carbohydrate>88</carbohydrate>
+    <sugar>28</sugar>
+    <protein>38</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>M6</code>
+    <category>Menu</category>
+    <subCategory>Nyugdíjas /Leves 250ml Főétel 350g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Bécsi krémleves, Zöldborsó főzelék, csirkenuggets</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>794</calorie>
+    <carbohydrate>81</carbohydrate>
+    <sugar>24</sugar>
+    <protein>27</protein>
+    <fat>39</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M6</code>
+    <category>Menu</category>
+    <subCategory>Nyugdíjas /Leves 250ml Főétel 350g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zúzaleves lúdgége tésztával, Házi slambuc</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1057</calorie>
+    <carbohydrate>73</carbohydrate>
+    <sugar>0</sugar>
+    <protein>35</protein>
+    <fat>52</fat>
+    <saturatedFattyAcid>14</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>M7</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>6450</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Egészségkonyha Specia / Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M7</code>
+    <category>Menu</category>
+    <subCategory>Egészségkonyha Specia /</subCategory>
+    <price>1390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Könnyű egresleves, Tormás karaj (csípős), sült zöldségek (répa, gyökér, zeller)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>584</calorie>
+    <carbohydrate>31</carbohydrate>
+    <sugar>1</sugar>
+    <protein>37</protein>
+    <fat>31</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>M7</code>
+    <category>Menu</category>
+    <subCategory>Egészségkonyha Specia /</subCategory>
+    <price>1390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Narancsos sárgarépakrémleves, Sajttal sült csirkemell, görög káposztasaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>559</calorie>
+    <carbohydrate>35</carbohydrate>
+    <sugar>3</sugar>
+    <protein>46</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>11</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M7</code>
+    <category>Menu</category>
+    <subCategory>Egészségkonyha Specia /</subCategory>
+    <price>1490</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marhaerőleves zöldséggel, Hideg pulykasült, brokkolisaláta burgonyával</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>578</calorie>
+    <carbohydrate>33</carbohydrate>
+    <sugar>1</sugar>
+    <protein>53</protein>
+    <fat>24</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M7</code>
+    <category>Menu</category>
+    <subCategory>Egészségkonyha Specia /</subCategory>
+    <price>1590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Erdei gombaleves, Csirkesteak, tejszínes, fahéjas gyümölcsmártás (alma, szilva)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>569</calorie>
+    <carbohydrate>40</carbohydrate>
+    <sugar>3</sugar>
+    <protein>51</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M7</code>
+    <category>Menu</category>
+    <subCategory>Egészségkonyha Specia /</subCategory>
+    <price>1290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Lestyános csibehúsleves, Rizses húsgombócok, paradicsomos zöldségraguban</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>624</calorie>
+    <carbohydrate>41</carbohydrate>
+    <sugar>2</sugar>
+    <protein>41</protein>
+    <fat>31</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>M7E</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>12100</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Alakformáló egész napi étrend Egészségkonyha Specia / Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M7E</code>
+    <category>Menu</category>
+    <subCategory>Alakformáló egész napi étrend Egészségkonyha Specia /</subCategory>
+    <price>2590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Könnyű egresleves, Rostonsült csirkemell, sajtos karfiolpüré, Tormás karaj (csípős), sült zöldségek (répa, gyökér, zeller), Paprikás-hagymás fetakrém, abonett</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1178</calorie>
+    <carbohydrate>58</carbohydrate>
+    <sugar>6</sugar>
+    <protein>74</protein>
+    <fat>67</fat>
+    <saturatedFattyAcid>17</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>M7E</code>
+    <category>Menu</category>
+    <subCategory>Alakformáló egész napi étrend Egészségkonyha Specia /</subCategory>
+    <price>2890</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Narancsos sárgarépakrémleves, Ananászos, sajtos csirke baconnel sütve, citromos sült brokkoli, Sajttal sült csirkemell, görög káposztasaláta, Sonkapástétom, kígyóuborka, abonett</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1114</calorie>
+    <carbohydrate>65</carbohydrate>
+    <sugar>10</sugar>
+    <protein>90</protein>
+    <fat>52</fat>
+    <saturatedFattyAcid>21</saturatedFattyAcid>
+    <salt>11</salt>
+  </product>
+  <product>
+    <code>M7E</code>
+    <category>Menu</category>
+    <subCategory>Alakformáló egész napi étrend Egészségkonyha Specia /</subCategory>
+    <price>2990</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marhaerőleves zöldséggel, Tex-mex csirkesaláta, Hideg pulykasült, brokkolisaláta burgonyával, Házi májkrém zsályával, chilivel, paradicsom, abonett</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1053</calorie>
+    <carbohydrate>73</carbohydrate>
+    <sugar>1</sugar>
+    <protein>104</protein>
+    <fat>38</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>M7E</code>
+    <category>Menu</category>
+    <subCategory>Alakformáló egész napi étrend Egészségkonyha Specia /</subCategory>
+    <price>2590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Erdei gombaleves, Csirkegyros, sült zöldség hasábok, Csirkesteak, tejszínes, fahéjas gyümölcsmártás (alma, szilva), Kakaós-fahéjas zabkása tejjel</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1221</calorie>
+    <carbohydrate>99</carbohydrate>
+    <sugar>10</sugar>
+    <protein>96</protein>
+    <fat>45</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M7E</code>
+    <category>Menu</category>
+    <subCategory>Alakformáló egész napi étrend Egészségkonyha Specia /</subCategory>
+    <price>2390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Lestyános csibehúsleves, Húsos rakott kelkáposzta zabpehellyel, Rizses húsgombócok, paradicsomos zöldségraguban, Csicserikrém, sárgarépa hasábok, Joghurt</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1495</calorie>
+    <carbohydrate>117</carbohydrate>
+    <sugar>13</sugar>
+    <protein>83</protein>
+    <fat>74</fat>
+    <saturatedFattyAcid>14</saturatedFattyAcid>
+    <salt>14</salt>
+  </product>
+  <product>
+    <code>M8</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>6350</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Lendület és Egészség ebéd Egészségkonyha Special / Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M8</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség ebéd Egészségkonyha Special /</subCategory>
+    <price>1490</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Könnyű egresleves, Marco Polo csirkemell, friss zöldséges, mentás bulgursaláta</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>670</calorie>
+    <carbohydrate>58</carbohydrate>
+    <sugar>1</sugar>
+    <protein>55</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>M8</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség ebéd Egészségkonyha Special /</subCategory>
+    <price>1390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Narancsos sárgarépakrémleves, Kaliforniai csirkesaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>628</calorie>
+    <carbohydrate>60</carbohydrate>
+    <sugar>12</sugar>
+    <protein>47</protein>
+    <fat>20</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M8</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség ebéd Egészségkonyha Special /</subCategory>
+    <price>1390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marhaerőleves zöldséggel, Zöldséggel, tojással göngyölt pulykamell, sárgarépás fűszeres kuszkusz</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>683</calorie>
+    <carbohydrate>58</carbohydrate>
+    <sugar>0</sugar>
+    <protein>61</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>M8</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség ebéd Egészségkonyha Special /</subCategory>
+    <price>1590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Erdei gombaleves, Sonkás brokkolipizza pikáns tejfölalappal</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>975</calorie>
+    <carbohydrate>54</carbohydrate>
+    <sugar>2</sugar>
+    <protein>50</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M8</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség ebéd Egészségkonyha Special /</subCategory>
+    <price>1190</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Lestyános csibehúsleves, Kashmíri csirke, zöldfűszeres köles</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>605</calorie>
+    <carbohydrate>56</carbohydrate>
+    <sugar>2</sugar>
+    <protein>56</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M8E</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>11500</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Lendület és Egészség egész napi étrend Egészségkonyha Special/ Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M8E</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség egész napi étrend Egészségkonyha Special/</subCategory>
+    <price>2690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Könnyű egresleves, Szezámmagos sült csirke felsőcomb, fokhagymás, paradicsomos árpakása, Marco Polo csirkemell, friss zöldséges, mentás bulgursaláta, Paprikás-hagymás fetakrém, 8 magvas mini tönkölybagett</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1719</calorie>
+    <carbohydrate>135</carbohydrate>
+    <sugar>2</sugar>
+    <protein>106</protein>
+    <fat>79</fat>
+    <saturatedFattyAcid>17</saturatedFattyAcid>
+    <salt>10</salt>
+  </product>
+  <product>
+    <code>M8E</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség egész napi étrend Egészségkonyha Special/</subCategory>
+    <price>2590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Narancsos sárgarépakrémleves, Tejszínes gombás csirketokány, bulgur, Kaliforniai csirkesaláta, Sonkapástétom, kígyóuborka, tönkölykenyér</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1370</calorie>
+    <carbohydrate>127</carbohydrate>
+    <sugar>14</sugar>
+    <protein>94</protein>
+    <fat>51</fat>
+    <saturatedFattyAcid>14</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>M8E</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség egész napi étrend Egészségkonyha Special/</subCategory>
+    <price>2590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marhaerőleves zöldséggel, Fitness túróstészta (teljes kiőrlésű) sült sonkakockákkal, Zöldséggel, tojással göngyölt pulykamell, sárgarépás fűszeres kuszkusz, Házi májkrém zsályával, chilivel, tönkölykenyér, paradicsom</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1362</calorie>
+    <carbohydrate>130</carbohydrate>
+    <sugar>4</sugar>
+    <protein>102</protein>
+    <fat>46</fat>
+    <saturatedFattyAcid>11</saturatedFattyAcid>
+    <salt>16</salt>
+  </product>
+  <product>
+    <code>M8E</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség egész napi étrend Egészségkonyha Special/</subCategory>
+    <price>2590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Erdei gombaleves, Mediterrán csirkeragu, Sonkás brokkolipizza pikáns tejfölalappal, Kakaós-fahéjas zabkása tejjel</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1518</calorie>
+    <carbohydrate>118</carbohydrate>
+    <sugar>8</sugar>
+    <protein>91</protein>
+    <fat>44</fat>
+    <saturatedFattyAcid>14</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M8E</code>
+    <category>Menu</category>
+    <subCategory>Lendület és Egészség egész napi étrend Egészségkonyha Special/</subCategory>
+    <price>2290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Lestyános csibehúsleves, Csirkehúsos bácskai barnarizs, Kashmíri csirke, zöldfűszeres köles, Csicserikrém, sárgarépa hasábok, Joghurt</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1321</calorie>
+    <carbohydrate>141</carbohydrate>
+    <sugar>12</sugar>
+    <protein>99</protein>
+    <fat>38</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>11</salt>
+  </product>
+  <product>
+    <code>M9</code>
+    <category>Menu</category>
+    <subCategory>
+    </subCategory>
+    <price>4350</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Zóna frissensült / Leves 250ml Főétel 250g/ Heti Menü</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>M9</code>
+    <category>Menu</category>
+    <subCategory>Zóna frissensült / Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tojásleves, Csirkemell hagymás bundában, pirított kockaburgonya</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>788</calorie>
+    <carbohydrate>74</carbohydrate>
+    <sugar>1</sugar>
+    <protein>36</protein>
+    <fat>35</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>M9</code>
+    <category>Menu</category>
+    <subCategory>Zóna frissensült / Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros gombaleves, Rántott sertésborda, jázmin rizs</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>916</calorie>
+    <carbohydrate>95</carbohydrate>
+    <sugar>1</sugar>
+    <protein>34</protein>
+    <fat>43</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M9</code>
+    <category>Menu</category>
+    <subCategory>Zóna frissensült / Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zelleres paradicsomleves, Rántott halrudak, burgonyapüré</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>795</calorie>
+    <carbohydrate>81</carbohydrate>
+    <sugar>26</sugar>
+    <protein>19</protein>
+    <fat>43</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>M9</code>
+    <category>Menu</category>
+    <subCategory>Zóna frissensült / Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Bécsi krémleves, Zizu kedvence (rántott csirkemell), paradicsomos spagetti</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>626</calorie>
+    <carbohydrate>62</carbohydrate>
+    <sugar>8</sugar>
+    <protein>30</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>M9</code>
+    <category>Menu</category>
+    <subCategory>Zóna frissensült / Leves 250ml Főétel 250g/</subCategory>
+    <price>960</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Fahéjas almaleves, Tökmagos rántott csirkemell, Steak burgonya fél</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>838</calorie>
+    <carbohydrate>94</carbohydrate>
+    <sugar>27</sugar>
+    <protein>33</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>L1</code>
+    <category>Soup</category>
+    <subCategory>Gyümölcslevesek</subCategory>
+    <price>395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszines szilvaleves</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>451</calorie>
+    <carbohydrate>87</carbohydrate>
+    <sugar>63</sugar>
+    <protein>3</protein>
+    <fat>9</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>L1</code>
+    <category>Soup</category>
+    <subCategory>Gyümölcslevesek</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hideg meggyleves</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>480</calorie>
+    <carbohydrate>93</carbohydrate>
+    <sugar>71</sugar>
+    <protein>4</protein>
+    <fat>9</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>L1</code>
+    <category>Soup</category>
+    <subCategory>Gyümölcslevesek</subCategory>
+    <price>495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszínes sárgabarackleves</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>350</calorie>
+    <carbohydrate>63</carbohydrate>
+    <sugar>54</sugar>
+    <protein>3</protein>
+    <fat>9</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>L1</code>
+    <category>Soup</category>
+    <subCategory>Gyümölcslevesek</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Mazsolás gesztenyekrémleves</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>553</calorie>
+    <carbohydrate>118</carbohydrate>
+    <sugar>56</sugar>
+    <protein>5</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>L1</code>
+    <category>Soup</category>
+    <subCategory>Gyümölcslevesek</subCategory>
+    <price>495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Fahéjas almaleves</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>384</calorie>
+    <carbohydrate>71</carbohydrate>
+    <sugar>52</sugar>
+    <protein>3</protein>
+    <fat>9</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>L2</code>
+    <category>Soup</category>
+    <subCategory>Könnyû levesek</subCategory>
+    <price>295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros zöldségleves*</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>175</calorie>
+    <carbohydrate>24</carbohydrate>
+    <sugar>0</sugar>
+    <protein>6</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>L2</code>
+    <category>Soup</category>
+    <subCategory>Könnyû levesek</subCategory>
+    <price>395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros gombaleves</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>237</calorie>
+    <carbohydrate>12</carbohydrate>
+    <sugar>1</sugar>
+    <protein>8</protein>
+    <fat>17</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>L2</code>
+    <category>Soup</category>
+    <subCategory>Könnyû levesek</subCategory>
+    <price>295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zelleres paradicsomleves</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>370</calorie>
+    <carbohydrate>67</carbohydrate>
+    <sugar>47</sugar>
+    <protein>4</protein>
+    <fat>10</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>L2</code>
+    <category>Soup</category>
+    <subCategory>Könnyû levesek</subCategory>
+    <price>395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Bécsi krémleves (burgonyás, tejszínes)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>282</calorie>
+    <carbohydrate>31</carbohydrate>
+    <sugar>1</sugar>
+    <protein>9</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>L2</code>
+    <category>Soup</category>
+    <subCategory>Könnyû levesek</subCategory>
+    <price>395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Burgonyagombóc leves*</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>275</calorie>
+    <carbohydrate>35</carbohydrate>
+    <sugar>3</sugar>
+    <protein>6</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>L3</code>
+    <category>Soup</category>
+    <subCategory>Húsos levesek</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csülkös bableves</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>721</calorie>
+    <carbohydrate>45</carbohydrate>
+    <sugar>1</sugar>
+    <protein>31</protein>
+    <fat>45</fat>
+    <saturatedFattyAcid>16</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>L3</code>
+    <category>Soup</category>
+    <subCategory>Húsos levesek</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Palóc leves</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>437</calorie>
+    <carbohydrate>23</carbohydrate>
+    <sugar>1</sugar>
+    <protein>27</protein>
+    <fat>25</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>L3</code>
+    <category>Soup</category>
+    <subCategory>Húsos levesek</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tavaszi csirkeragu leves</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>307</calorie>
+    <carbohydrate>13</carbohydrate>
+    <sugar>1</sugar>
+    <protein>25</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>L3</code>
+    <category>Soup</category>
+    <subCategory>Húsos levesek</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsleves gazdagon</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>220</calorie>
+    <carbohydrate>16</carbohydrate>
+    <sugar>0</sugar>
+    <protein>20</protein>
+    <fat>7</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>L3</code>
+    <category>Soup</category>
+    <subCategory>Húsos levesek</subCategory>
+    <price>495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Kacsazúza leves lúdgége tésztával</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>599</calorie>
+    <carbohydrate>24</carbohydrate>
+    <sugar>0</sugar>
+    <protein>28</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>K1</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkemáj vadász mártással, sós burgonya</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>712</calorie>
+    <carbohydrate>61</carbohydrate>
+    <sugar>1</sugar>
+    <protein>45</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>14</salt>
+  </product>
+  <product>
+    <code>K1</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldborsós pulykatokány, jázmin rizs</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>899</calorie>
+    <carbohydrate>88</carbohydrate>
+    <sugar>2</sugar>
+    <protein>39</protein>
+    <fat>42</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>K1</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sztroganoff pulykatokány, jázmin rizs</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1064</calorie>
+    <carbohydrate>87</carbohydrate>
+    <sugar>2</sugar>
+    <protein>41</protein>
+    <fat>60</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>10</salt>
+  </product>
+  <product>
+    <code>K1</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paradicsomos húsgombóc, Sós burgonya</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>975</calorie>
+    <carbohydrate>119</carbohydrate>
+    <sugar>32</sugar>
+    <protein>28</protein>
+    <fat>40</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>K1</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszínes tárkonyos csirkemelltokány, jázmin rizs</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>746</calorie>
+    <carbohydrate>83</carbohydrate>
+    <sugar>2</sugar>
+    <protein>42</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>K2</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkecomb paprikás (filéből), galuska</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1085</calorie>
+    <carbohydrate>109</carbohydrate>
+    <sugar>4</sugar>
+    <protein>54</protein>
+    <fat>46</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>K2</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsos rakott karfiol</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>824</calorie>
+    <carbohydrate>51</carbohydrate>
+    <sugar>2</sugar>
+    <protein>36</protein>
+    <fat>51</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>K2</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Jércemelles rakott brokkoli</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>672</calorie>
+    <carbohydrate>48</carbohydrate>
+    <sugar>3</sugar>
+    <protein>46</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>K2</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Alföldi tarhonyás hús</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1005</calorie>
+    <carbohydrate>87</carbohydrate>
+    <sugar>6</sugar>
+    <protein>42</protein>
+    <fat>53</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>13</salt>
+  </product>
+  <product>
+    <code>K2</code>
+    <category>Dish</category>
+    <subCategory>Házias egytálételek</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsos rakott zöldbab</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>937</calorie>
+    <carbohydrate>69</carbohydrate>
+    <sugar>2</sugar>
+    <protein>36</protein>
+    <fat>55</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>K3</code>
+    <category>Dish</category>
+    <subCategory>Tésztafélék</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Gombás, pórés, tejszínes spagetti, Sült csirkemell csíkok</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>701</calorie>
+    <carbohydrate>69</carbohydrate>
+    <sugar>5</sugar>
+    <protein>55</protein>
+    <fat>21</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>K3</code>
+    <category>Dish</category>
+    <subCategory>Tésztafélék</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Olasz csirkés penne</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>741</calorie>
+    <carbohydrate>99</carbohydrate>
+    <sugar>19</sugar>
+    <protein>55</protein>
+    <fat>13</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>K3</code>
+    <category>Dish</category>
+    <subCategory>Tésztafélék</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Mikszáth kedvence (vegyes pörkölt juhtúrós sztrapacskával)</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>810</calorie>
+    <carbohydrate>72</carbohydrate>
+    <sugar>3</sugar>
+    <protein>50</protein>
+    <fat>34</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>K3</code>
+    <category>Dish</category>
+    <subCategory>Tésztafélék</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paradicsomos, olívás, tonhalas penne</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>625</calorie>
+    <carbohydrate>70</carbohydrate>
+    <sugar>4</sugar>
+    <protein>32</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>K3</code>
+    <category>Dish</category>
+    <subCategory>Tésztafélék</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Házi slambuc</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>938</calorie>
+    <carbohydrate>79</carbohydrate>
+    <sugar>0</sugar>
+    <protein>28</protein>
+    <fat>55</fat>
+    <saturatedFattyAcid>19</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>K4</code>
+    <category>Dish</category>
+    <subCategory>Húsmentes tésztafélék</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vargabéles (túrós, mazsolás rakott tészta)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>933</calorie>
+    <carbohydrate>133</carbohydrate>
+    <sugar>75</sugar>
+    <protein>32</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>17</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>K4</code>
+    <category>Dish</category>
+    <subCategory>Húsmentes tésztafélék</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Gundel palacsinta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1008</calorie>
+    <carbohydrate>131</carbohydrate>
+    <sugar>74</sugar>
+    <protein>29</protein>
+    <fat>51</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>K4</code>
+    <category>Dish</category>
+    <subCategory>Húsmentes tésztafélék</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Négysajtos penne</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>831</calorie>
+    <carbohydrate>81</carbohydrate>
+    <sugar>9</sugar>
+    <protein>38</protein>
+    <fat>38</fat>
+    <saturatedFattyAcid>19</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>K4</code>
+    <category>Dish</category>
+    <subCategory>Húsmentes tésztafélék</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejfölös krumplistészta lyoni hagymával</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>654</calorie>
+    <carbohydrate>103</carbohydrate>
+    <sugar>5</sugar>
+    <protein>19</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>K4</code>
+    <category>Dish</category>
+    <subCategory>Húsmentes tésztafélék</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Mákos guba*</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>999</calorie>
+    <carbohydrate>178</carbohydrate>
+    <sugar>86</sugar>
+    <protein>27</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>K5</code>
+    <category>Dish</category>
+    <subCategory>Kedvencek</subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Fajita csirkével, salsa szósszal</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>583</calorie>
+    <carbohydrate>64</carbohydrate>
+    <sugar>3</sugar>
+    <protein>40</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>K5</code>
+    <category>Dish</category>
+    <subCategory>Kedvencek</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tárkonyos tejszínes csirkemáj almával, jázmin rizs</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>780</calorie>
+    <carbohydrate>90</carbohydrate>
+    <sugar>1</sugar>
+    <protein>42</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>K5</code>
+    <category>Dish</category>
+    <subCategory>Kedvencek</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Cukkinis-padlizsános penne kecskesajttal</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>598</calorie>
+    <carbohydrate>84</carbohydrate>
+    <sugar>5</sugar>
+    <protein>17</protein>
+    <fat>20</fat>
+    <saturatedFattyAcid>11</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>K5</code>
+    <category>Dish</category>
+    <subCategory>Kedvencek</subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hamburger, ahogy mi szeretjük</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>963</calorie>
+    <carbohydrate>60</carbohydrate>
+    <sugar>4</sugar>
+    <protein>37</protein>
+    <fat>66</fat>
+    <saturatedFattyAcid>22</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>K5</code>
+    <category>Dish</category>
+    <subCategory>Kedvencek</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Toszkán tepsis csirkemell, pirított kockaburgonya</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>693</calorie>
+    <carbohydrate>74</carbohydrate>
+    <sugar>1</sugar>
+    <protein>47</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>K6</code>
+    <category>Dish</category>
+    <subCategory>Húsos finomságok</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Savanykás, pikáns marharagu, tészta köret</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>920</calorie>
+    <carbohydrate>82</carbohydrate>
+    <sugar>10</sugar>
+    <protein>46</protein>
+    <fat>44</fat>
+    <saturatedFattyAcid>12</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>K6</code>
+    <category>Dish</category>
+    <subCategory>Húsos finomságok</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Erdei gombás csirkerizottó füstölt sajttal</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>676</calorie>
+    <carbohydrate>80</carbohydrate>
+    <sugar>0</sugar>
+    <protein>46</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>K6</code>
+    <category>Dish</category>
+    <subCategory>Húsos finomságok</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkemell paprikás, galuska</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>828</calorie>
+    <carbohydrate>101</carbohydrate>
+    <sugar>4</sugar>
+    <protein>52</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>K6</code>
+    <category>Dish</category>
+    <subCategory>Húsos finomságok</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Jércemell filé kertészlány módra, jázmin rizs</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>715</calorie>
+    <carbohydrate>90</carbohydrate>
+    <sugar>2</sugar>
+    <protein>43</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>K6</code>
+    <category>Dish</category>
+    <subCategory>Húsos finomságok</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vörösboros marhalábszárpörkölt, tarhonya</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>736</calorie>
+    <carbohydrate>70</carbohydrate>
+    <sugar>5</sugar>
+    <protein>45</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>K7</code>
+    <category>Dish</category>
+    <subCategory>Új!! Nagyevõknek /50-60dkg</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Toros káposzta XXL</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>901</calorie>
+    <carbohydrate>14</carbohydrate>
+    <sugar>7</sugar>
+    <protein>43</protein>
+    <fat>71</fat>
+    <saturatedFattyAcid>12</saturatedFattyAcid>
+    <salt>20</salt>
+  </product>
+  <product>
+    <code>K7</code>
+    <category>Dish</category>
+    <subCategory>Új!! Nagyevõknek /50-60dkg</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sonkás juhtúrós rakott burgonya XXL</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>874</calorie>
+    <carbohydrate>84</carbohydrate>
+    <sugar>4</sugar>
+    <protein>43</protein>
+    <fat>39</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>12</salt>
+  </product>
+  <product>
+    <code>K7</code>
+    <category>Dish</category>
+    <subCategory>Új!! Nagyevõknek /50-60dkg</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Túrós csusza bacon szalonnával XXL</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1341</calorie>
+    <carbohydrate>94</carbohydrate>
+    <sugar>7</sugar>
+    <protein>38</protein>
+    <fat>89</fat>
+    <saturatedFattyAcid>42</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>K7</code>
+    <category>Dish</category>
+    <subCategory>Új!! Nagyevõknek /50-60dkg</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Disznótoros XXL, párolt káposzta, hagymás tört burgonya</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1224</calorie>
+    <carbohydrate>68</carbohydrate>
+    <sugar>10</sugar>
+    <protein>46</protein>
+    <fat>82</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>K7</code>
+    <category>Dish</category>
+    <subCategory>Új!! Nagyevõknek /50-60dkg</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tojásos nokedli baconnal XXL</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1384</calorie>
+    <carbohydrate>135</carbohydrate>
+    <sugar>2</sugar>
+    <protein>49</protein>
+    <fat>70</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>21</salt>
+  </product>
+  <product>
+    <code>N1</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Görögös göngyölt csirkemell, rizi-bizi</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>864</calorie>
+    <carbohydrate>96</carbohydrate>
+    <sugar>1</sugar>
+    <protein>48</protein>
+    <fat>31</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>N1</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült csirkemell, meggy mártás, pirított gríz</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1086</calorie>
+    <carbohydrate>149</carbohydrate>
+    <sugar>42</sugar>
+    <protein>44</protein>
+    <fat>33</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>N1</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült csirkecomb, rizi-bizi</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>908</calorie>
+    <carbohydrate>86</carbohydrate>
+    <sugar>0</sugar>
+    <protein>65</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>N1</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Aszalt szilvával göngyölt csirkemell, jázmin rizs</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>851</calorie>
+    <carbohydrate>121</carbohydrate>
+    <sugar>0</sugar>
+    <protein>42</protein>
+    <fat>20</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>N1</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>1795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült kacsacomb, barackos rizs</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1158</calorie>
+    <carbohydrate>114</carbohydrate>
+    <sugar>6</sugar>
+    <protein>36</protein>
+    <fat>79</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>N2</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Görögös göngyölt csirkemell, pirított kockaburgonya</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>870</calorie>
+    <carbohydrate>89</carbohydrate>
+    <sugar>1</sugar>
+    <protein>45</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>N2</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült csirkemell, meggy mártás, sós burgonya</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>805</calorie>
+    <carbohydrate>112</carbohydrate>
+    <sugar>42</sugar>
+    <protein>40</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>11</salt>
+  </product>
+  <product>
+    <code>N2</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült csirkecomb, petrezselymes burgonya</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>789</calorie>
+    <carbohydrate>67</carbohydrate>
+    <sugar>0</sugar>
+    <protein>61</protein>
+    <fat>26</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>N2</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Aszalt szilvával göngyölt csirkemell, burgonyapüré</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>660</calorie>
+    <carbohydrate>83</carbohydrate>
+    <sugar>3</sugar>
+    <protein>39</protein>
+    <fat>17</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>N2</code>
+    <category>Dish</category>
+    <subCategory>Kedvenceink</subCategory>
+    <price>1795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült kacsacomb, káposztás cvekedli</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1244</calorie>
+    <carbohydrate>115</carbohydrate>
+    <sugar>24</sugar>
+    <protein>42</protein>
+    <fat>85</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>17</salt>
+  </product>
+  <product>
+    <code>F1</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelékek </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sárgaborsófőzelék</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>624</calorie>
+    <carbohydrate>89</carbohydrate>
+    <sugar>0</sugar>
+    <protein>36</protein>
+    <fat>14</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>F1</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelékek </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sóskafőzelék</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>511</calorie>
+    <carbohydrate>74</carbohydrate>
+    <sugar>53</sugar>
+    <protein>10</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>F1</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelékek </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Parajfőzelék </details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>382</calorie>
+    <carbohydrate>34</carbohydrate>
+    <sugar>6</sugar>
+    <protein>13</protein>
+    <fat>21</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>F1</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelékek </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldborsófőzelék</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>401</calorie>
+    <carbohydrate>56</carbohydrate>
+    <sugar>19</sugar>
+    <protein>18</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>F1</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelékek </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros burgonyafőzelék </details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>623</calorie>
+    <carbohydrate>75</carbohydrate>
+    <sugar>1</sugar>
+    <protein>12</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>F2</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sárgaborsófőzelék, Sertéspörkölt</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>940</calorie>
+    <carbohydrate>99</carbohydrate>
+    <sugar>1</sugar>
+    <protein>61</protein>
+    <fat>33</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>F2</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sóskafőzelék, sós burgonya, sült virsli</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1038</calorie>
+    <carbohydrate>114</carbohydrate>
+    <sugar>54</sugar>
+    <protein>30</protein>
+    <fat>47</fat>
+    <saturatedFattyAcid>17</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>F2</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Parajfőzelék*, Natúr csirkemell</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>552</calorie>
+    <carbohydrate>35</carbohydrate>
+    <sugar>6</sugar>
+    <protein>38</protein>
+    <fat>28</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>F2</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldborsófőzelék, rántott csirkemell</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>696</calorie>
+    <carbohydrate>68</carbohydrate>
+    <sugar>21</sugar>
+    <protein>37</protein>
+    <fat>30</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>F2</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros burgonyafőzelék, sült kolbász</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1188</calorie>
+    <carbohydrate>75</carbohydrate>
+    <sugar>1</sugar>
+    <protein>36</protein>
+    <fat>80</fat>
+    <saturatedFattyAcid>26</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>F3</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sárgaborsófőzelék, tofupörkölt</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>827</calorie>
+    <carbohydrate>107</carbohydrate>
+    <sugar>4</sugar>
+    <protein>51</protein>
+    <fat>26</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>F3</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sóskafőzelék, sós burgonya, főtt tojás</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>798</calorie>
+    <carbohydrate>111</carbohydrate>
+    <sugar>53</sugar>
+    <protein>26</protein>
+    <fat>26</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>F3</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Parajfőzelék*, főtt tojás</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>525</calorie>
+    <carbohydrate>35</carbohydrate>
+    <sugar>6</sugar>
+    <protein>24</protein>
+    <fat>31</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>F3</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldborsófőzelék, rántott sajt</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1162</calorie>
+    <carbohydrate>100</carbohydrate>
+    <sugar>20</sugar>
+    <protein>58</protein>
+    <fat>57</fat>
+    <saturatedFattyAcid>24</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>F3</code>
+    <category>vegetable</category>
+    <subCategory>Fõzelék feltéttel</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Magyaros burgonyafőzelék, falafel</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>916</calorie>
+    <carbohydrate>101</carbohydrate>
+    <sugar>6</sugar>
+    <protein>20</protein>
+    <fat>46</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>O1</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkemell hagymás bundában, kukoricás rizs</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>866</calorie>
+    <carbohydrate>111</carbohydrate>
+    <sugar>1</sugar>
+    <protein>47</protein>
+    <fat>25</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>O1</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott sertésborda, rizi-bizi</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1106</calorie>
+    <carbohydrate>129</carbohydrate>
+    <sugar>0</sugar>
+    <protein>49</protein>
+    <fat>42</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>O1</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Milánói rántott csirkemell, petrezselymes rizs</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1016</calorie>
+    <carbohydrate>123</carbohydrate>
+    <sugar>3</sugar>
+    <protein>53</protein>
+    <fat>34</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>O1</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Cordon bleu csirkemell, paradicsomos spagetti</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>951</calorie>
+    <carbohydrate>93</carbohydrate>
+    <sugar>13</sugar>
+    <protein>60</protein>
+    <fat>37</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>10</salt>
+  </product>
+  <product>
+    <code>O1</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tökmagos rántott csirkemell, fűszeres rizs</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1019</calorie>
+    <carbohydrate>115</carbohydrate>
+    <sugar>0</sugar>
+    <protein>50</protein>
+    <fat>38</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>O2</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkemell hagymás bundában, burgonyapüré</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>572</calorie>
+    <carbohydrate>57</carbohydrate>
+    <sugar>4</sugar>
+    <protein>41</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>O2</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott sertésborda, petrezselymes burgonya</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>987</calorie>
+    <carbohydrate>111</carbohydrate>
+    <sugar>0</sugar>
+    <protein>45</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>O2</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Milánói rántott csirkemell, sajtos-tejfölös tészta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1066</calorie>
+    <carbohydrate>99</carbohydrate>
+    <sugar>8</sugar>
+    <protein>62</protein>
+    <fat>46</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>O2</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Cordon bleu csirkemell, pirított burgonya</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1135</calorie>
+    <carbohydrate>116</carbohydrate>
+    <sugar>0</sugar>
+    <protein>62</protein>
+    <fat>42</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>O2</code>
+    <category>Freshschnitzel</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tökmagos rántott csirkemell, pirított kockaburgonya</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1078</calorie>
+    <carbohydrate>115</carbohydrate>
+    <sugar>0</sugar>
+    <protein>53</protein>
+    <fat>40</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>R1</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Szezámmagos rántott karfiol, tartármártás, jázmin rizs</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1272</calorie>
+    <carbohydrate>154</carbohydrate>
+    <sugar>7</sugar>
+    <protein>28</protein>
+    <fat>59</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>R1</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>1495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott harcsa filé, jázmin rizs, tartármártás</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1517</calorie>
+    <carbohydrate>131</carbohydrate>
+    <sugar>7</sugar>
+    <protein>45</protein>
+    <fat>57</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>R1</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott halrudak, uborkás, snidlinges majonéz, jázmin rizs</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1177</calorie>
+    <carbohydrate>134</carbohydrate>
+    <sugar>8</sugar>
+    <protein>38</protein>
+    <fat>52</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>R1</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott mozzarella sajt, jázmin rizs, áfonyaöntet</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1640</calorie>
+    <carbohydrate>218</carbohydrate>
+    <sugar>55</sugar>
+    <protein>57</protein>
+    <fat>58</fat>
+    <saturatedFattyAcid>22</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>R1</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 1</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Röszti, fokhagymás tejföl, reszelt sajt</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>876</calorie>
+    <carbohydrate>69</carbohydrate>
+    <sugar>7</sugar>
+    <protein>21</protein>
+    <fat>51</fat>
+    <saturatedFattyAcid>28</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>R2</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Szezámmagos rántott karfiol, burgonyapüré</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>823</calorie>
+    <carbohydrate>107</carbohydrate>
+    <sugar>4</sugar>
+    <protein>24</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>R2</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>1595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott harcsa filé, light francia saláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1260</calorie>
+    <carbohydrate>91</carbohydrate>
+    <sugar>2</sugar>
+    <protein>46</protein>
+    <fat>46</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>R2</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott halrudak, burgonyapüré</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>794</calorie>
+    <carbohydrate>88</carbohydrate>
+    <sugar>4</sugar>
+    <protein>34</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>R2</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott mozzarella sajt, paradicsomos spagetti</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1285</calorie>
+    <carbohydrate>141</carbohydrate>
+    <sugar>14</sugar>
+    <protein>57</protein>
+    <fat>54</fat>
+    <saturatedFattyAcid>22</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>R2</code>
+    <category>FreshschnitzelMeatFree</category>
+    <subCategory>Frissen sültek 2</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Röszti, Tzatziki saláta</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>613</calorie>
+    <carbohydrate>60</carbohydrate>
+    <sugar>6</sugar>
+    <protein>12</protein>
+    <fat>31</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>S</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory> Reform bundás/ Egészségkonyha Special</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott csirkecombfilé kukoricás bundában, rizi-bizi</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1060</calorie>
+    <carbohydrate>122</carbohydrate>
+    <sugar>0</sugar>
+    <protein>58</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>S</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory> Reform bundás/ Egészségkonyha Special</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkemell reform bundában, friss zöldséges, mentás bulgursaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>642</calorie>
+    <carbohydrate>62</carbohydrate>
+    <sugar>0</sugar>
+    <protein>47</protein>
+    <fat>21</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>S</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory> Reform bundás/ Egészségkonyha Special</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott csirkemell kukoricás bundában, pirított kockaburgonya</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>897</calorie>
+    <carbohydrate>108</carbohydrate>
+    <sugar>0</sugar>
+    <protein>51</protein>
+    <fat>24</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>S</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory> Reform bundás/ Egészségkonyha Special</subCategory>
+    <price>1495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Harcsafilé reform bundában, tartármártás, barna rizs</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1335</calorie>
+    <carbohydrate>111</carbohydrate>
+    <sugar>6</sugar>
+    <protein>46</protein>
+    <fat>47</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>S</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory> Reform bundás/ Egészségkonyha Special</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Karfiol reform bundában, zöldséges krumplisaláta</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>534</calorie>
+    <carbohydrate>69</carbohydrate>
+    <sugar>0</sugar>
+    <protein>19</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>ES</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory>Karcsúsított bundában/ Egészségkonyha Special</subCategory>
+    <price>1595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott harcsafilé teljesőrlésű bundában, grillezett zöldségek</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>820</calorie>
+    <carbohydrate>44</carbohydrate>
+    <sugar>0</sugar>
+    <protein>50</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>ES</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory>Karcsúsított bundában/ Egészségkonyha Special</subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott pulykamell teljesőrlésű bundában, túrós paradicsomsaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>530</calorie>
+    <carbohydrate>30</carbohydrate>
+    <sugar>2</sugar>
+    <protein>58</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>ES</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory>Karcsúsított bundában/ Egészségkonyha Special</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott csirkemell teljesőrlésű bundában, őszi színes saláta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>463</calorie>
+    <carbohydrate>38</carbohydrate>
+    <sugar>2</sugar>
+    <protein>52</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>ES</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory>Karcsúsított bundában/ Egészségkonyha Special</subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott pulykamell teljesőrlésű bundában, Tzatziki saláta</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>564</calorie>
+    <carbohydrate>29</carbohydrate>
+    <sugar>3</sugar>
+    <protein>56</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>ES</code>
+    <category>FreshschnitzelLight</category>
+    <subCategory>Karcsúsított bundában/ Egészségkonyha Special</subCategory>
+    <price>1995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rántott sertéskaraj teljesőrlésű bundában, hasáb édesburgonya</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>1115</calorie>
+    <carbohydrate>85</carbohydrate>
+    <sugar>28</sugar>
+    <protein>48</protein>
+    <fat>60</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>D1</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 1</subCategory>
+    <price>490</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rákóczi túrós </details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>317</calorie>
+    <carbohydrate>35</carbohydrate>
+    <sugar>0</sugar>
+    <protein>10</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D1</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 1</subCategory>
+    <price>590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Somlói galuska</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>515</calorie>
+    <carbohydrate>77</carbohydrate>
+    <sugar>0</sugar>
+    <protein>4</protein>
+    <fat>20</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D1</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 1</subCategory>
+    <price>290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejberizs csokoládéöntettel</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>368</calorie>
+    <carbohydrate>71</carbohydrate>
+    <sugar>39</sugar>
+    <protein>10</protein>
+    <fat>4</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>D1</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 1</subCategory>
+    <price>390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Madártej</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>362</calorie>
+    <carbohydrate>72</carbohydrate>
+    <sugar>71</sugar>
+    <protein>11</protein>
+    <fat>3</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D1</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 1</subCategory>
+    <price>490</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Képveselő fánk</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>258</calorie>
+    <carbohydrate>16</carbohydrate>
+    <sugar>0</sugar>
+    <protein>0</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D2</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 2</subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Áfonyatorta</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>280</calorie>
+    <carbohydrate>42</carbohydrate>
+    <sugar>28</sugar>
+    <protein>9</protein>
+    <fat>8</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D2</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 2</subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Epertorta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>211</calorie>
+    <carbohydrate>33</carbohydrate>
+    <sugar>20</sugar>
+    <protein>3</protein>
+    <fat>7</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D2</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 2</subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Körtés-kakaókrémes torta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>262</calorie>
+    <carbohydrate>39</carbohydrate>
+    <sugar>24</sugar>
+    <protein>4</protein>
+    <fat>10</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D2</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 2</subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Feketeerdő torta</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>308</calorie>
+    <carbohydrate>40</carbohydrate>
+    <sugar>27</sugar>
+    <protein>4</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>11</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D2</code>
+    <category>Dessert</category>
+    <subCategory>Desszertek 2</subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Almatorta</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>220</calorie>
+    <carbohydrate>33</carbohydrate>
+    <sugar>15</sugar>
+    <protein>3</protein>
+    <fat>8</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D3</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special </subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Meggyes-mascarponés tönkölypiskóta</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>482</calorie>
+    <carbohydrate>32</carbohydrate>
+    <sugar>3</sugar>
+    <protein>9</protein>
+    <fat>39</fat>
+    <saturatedFattyAcid>25</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D3</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special </subCategory>
+    <price>790</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Túrós tönkölypalacsinta, édes tejfölmártás</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>522</calorie>
+    <carbohydrate>30</carbohydrate>
+    <sugar>5</sugar>
+    <protein>21</protein>
+    <fat>34</fat>
+    <saturatedFattyAcid>16</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D3</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special </subCategory>
+    <price>590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tönköly aranygaluska, diétás vaníliaöntet</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>296</calorie>
+    <carbohydrate>57</carbohydrate>
+    <sugar>5</sugar>
+    <protein>4</protein>
+    <fat>2</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D3</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special </subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Málnás, zabpelyhes túrógombóc, édes tejfölmártás</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>483</calorie>
+    <carbohydrate>27</carbohydrate>
+    <sugar>7</sugar>
+    <protein>27</protein>
+    <fat>28</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D3</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special </subCategory>
+    <price>590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vaníliás-meggyes tönkölyguba</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>249</calorie>
+    <carbohydrate>41</carbohydrate>
+    <sugar>6</sugar>
+    <protein>9</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D4</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special</subCategory>
+    <price>590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vaníliás túrókrém</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>192</calorie>
+    <carbohydrate>6</carbohydrate>
+    <sugar>4</sugar>
+    <protein>12</protein>
+    <fat>14</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D4</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special</subCategory>
+    <price>390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejbezabi fahéjjal</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>195</calorie>
+    <carbohydrate>26</carbohydrate>
+    <sugar>8</sugar>
+    <protein>8</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D4</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special</subCategory>
+    <price>590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Meggyes tönkölypite</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>228</calorie>
+    <carbohydrate>44</carbohydrate>
+    <sugar>0</sugar>
+    <protein>8</protein>
+    <fat>2</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D4</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special</subCategory>
+    <price>590</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tönkölyös tiroli almás rétes</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>290</calorie>
+    <carbohydrate>37</carbohydrate>
+    <sugar>0</sugar>
+    <protein>0</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>D4</code>
+    <category>Dessert</category>
+    <subCategory>Édes egészséges/ Egészségkonyha Special</subCategory>
+    <price>690</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Chia puding</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>302</calorie>
+    <carbohydrate>6</carbohydrate>
+    <sugar>2</sugar>
+    <protein>6</protein>
+    <fat>29</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>SA</code>
+    <category>Pickles</category>
+    <subCategory>Savanyúság</subCategory>
+    <price>160</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csemegeuborka</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>19</calorie>
+    <carbohydrate>4</carbohydrate>
+    <sugar>1</sugar>
+    <protein>1</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>SA</code>
+    <category>Pickles</category>
+    <subCategory>Savanyúság</subCategory>
+    <price>160</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sárgarépás káposztasaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>34</calorie>
+    <carbohydrate>6</carbohydrate>
+    <sugar>0</sugar>
+    <protein>2</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>SA</code>
+    <category>Pickles</category>
+    <subCategory>Savanyúság</subCategory>
+    <price>270</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Uborkasaláta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>15</calorie>
+    <carbohydrate>2</carbohydrate>
+    <sugar>0</sugar>
+    <protein>1</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>SA</code>
+    <category>Pickles</category>
+    <subCategory>Savanyúság</subCategory>
+    <price>190</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Ecetes almapaprika</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>21</calorie>
+    <carbohydrate>3</carbohydrate>
+    <sugar>1</sugar>
+    <protein>1</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>SA</code>
+    <category>Pickles</category>
+    <subCategory>Savanyúság</subCategory>
+    <price>160</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csalamádé</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>31</calorie>
+    <carbohydrate>5</carbohydrate>
+    <sugar>5</sugar>
+    <protein>2</protein>
+    <fat>0</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EL</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló leves zóna/ Egészségkonyha Special </subCategory>
+    <price>290</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Könnyű egresleves</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>89</calorie>
+    <carbohydrate>9</carbohydrate>
+    <sugar>0</sugar>
+    <protein>2</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>EL</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló leves zóna/ Egészségkonyha Special </subCategory>
+    <price>220</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Narancsos sárgarépakrémleves</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>103</calorie>
+    <carbohydrate>11</carbohydrate>
+    <sugar>2</sugar>
+    <protein>2</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>EL</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló leves zóna/ Egészségkonyha Special </subCategory>
+    <price>390</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marhaerőleves zöldséggel </details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>80</calorie>
+    <carbohydrate>3</carbohydrate>
+    <sugar>0</sugar>
+    <protein>9</protein>
+    <fat>3</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>EL</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló leves zóna/ Egészségkonyha Special </subCategory>
+    <price>320</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Erdei gombaleves</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>101</calorie>
+    <carbohydrate>9</carbohydrate>
+    <sugar>0</sugar>
+    <protein>6</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EL</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló leves zóna/ Egészségkonyha Special </subCategory>
+    <price>320</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Lestyános csibehúsleves</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>78</calorie>
+    <carbohydrate>4</carbohydrate>
+    <sugar>0</sugar>
+    <protein>12</protein>
+    <fat>1</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rostonsült csirkemell, sajtos karfiolpüré</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>307</calorie>
+    <carbohydrate>10</carbohydrate>
+    <sugar>2</sugar>
+    <protein>31</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paradicsomos mozzarellás sült csirkemell, Káposzta saláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>310</calorie>
+    <carbohydrate>12</carbohydrate>
+    <sugar>0</sugar>
+    <protein>29</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Dijoni karaj, fűszeres sült csicseriborsó</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>380</calorie>
+    <carbohydrate>29</carbohydrate>
+    <sugar>0</sugar>
+    <protein>28</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rostonsült csirkemell, majonézes céklasaláta</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>340</calorie>
+    <carbohydrate>23</carbohydrate>
+    <sugar>7</sugar>
+    <protein>23</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Citromos pulykasült, zöld-sárga zöldségek párolva</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>357</calorie>
+    <carbohydrate>26</carbohydrate>
+    <sugar>4</sugar>
+    <protein>36</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>10</salt>
+  </product>
+  <product>
+    <code>E2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vöröslencsefőzelék, főtt tojás</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>443</calorie>
+    <carbohydrate>40</carbohydrate>
+    <sugar>0</sugar>
+    <protein>25</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Ananászos, sajtos csirke baconnel sütve, citromos sült brokkoli</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>333</calorie>
+    <carbohydrate>15</carbohydrate>
+    <sugar>6</sugar>
+    <protein>29</protein>
+    <fat>17</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tex-mex csirkesaláta</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>277</calorie>
+    <carbohydrate>21</carbohydrate>
+    <sugar>0</sugar>
+    <protein>32</protein>
+    <fat>9</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>E2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkegyros, sült zöldség hasábok</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>415</calorie>
+    <carbohydrate>25</carbohydrate>
+    <sugar>0</sugar>
+    <protein>34</protein>
+    <fat>17</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Fitness /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Húsos rakott kelkáposzta zabpehellyel</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>566</calorie>
+    <carbohydrate>40</carbohydrate>
+    <sugar>1</sugar>
+    <protein>27</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E3</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Szezámmagos sült csirke felsőcomb, fokhagymás, paradicsomos árpakása</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>648</calorie>
+    <carbohydrate>41</carbohydrate>
+    <sugar>0</sugar>
+    <protein>40</protein>
+    <fat>34</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E3</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszínes gombás csirketokány, bulgur</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>461</calorie>
+    <carbohydrate>41</carbohydrate>
+    <sugar>1</sugar>
+    <protein>29</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E3</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Fitness túróstészta (teljes kiőrlésű) sült sonkakockákkal</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>423</calorie>
+    <carbohydrate>42</carbohydrate>
+    <sugar>4</sugar>
+    <protein>20</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>E3</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Mediterrán csirkeragu</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>306</calorie>
+    <carbohydrate>30</carbohydrate>
+    <sugar>0</sugar>
+    <protein>30</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>E3</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /20-25 dkg/ Egészségkonyha Special </subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkehúsos bácskai barnarizs</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>411</calorie>
+    <carbohydrate>49</carbohydrate>
+    <sugar>1</sugar>
+    <protein>28</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>E4</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marco Polo csirkemell, friss zöldséges, mentás bulgursaláta</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>581</calorie>
+    <carbohydrate>49</carbohydrate>
+    <sugar>0</sugar>
+    <protein>53</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E4</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Kaliforniai csirkesaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>525</calorie>
+    <carbohydrate>49</carbohydrate>
+    <sugar>9</sugar>
+    <protein>45</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E4</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldséggel, tojással göngyölt pulykamell, sárgarépás fűszeres kuszkusz</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>603</calorie>
+    <carbohydrate>55</carbohydrate>
+    <sugar>0</sugar>
+    <protein>52</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E4</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sonkás brokkolipizza pikáns tejfölalappal</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>874</calorie>
+    <carbohydrate>45</carbohydrate>
+    <sugar>2</sugar>
+    <protein>44</protein>
+    <fat>27</fat>
+    <saturatedFattyAcid>12</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E4</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Lendület és Egészség /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Kashmíri csirke, zöldfűszeres köles</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>527</calorie>
+    <carbohydrate>52</carbohydrate>
+    <sugar>2</sugar>
+    <protein>44</protein>
+    <fat>14</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E5</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tormás karaj (csípős), sült zöldségek (répa, gyökér, zeller)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>495</calorie>
+    <carbohydrate>22</carbohydrate>
+    <sugar>0</sugar>
+    <protein>35</protein>
+    <fat>26</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E5</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sajttal sült csirkemell, görög káposztasaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>456</calorie>
+    <carbohydrate>24</carbohydrate>
+    <sugar>0</sugar>
+    <protein>44</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E5</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Szecsuáni csirkefalatok</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>433</calorie>
+    <carbohydrate>36</carbohydrate>
+    <sugar>9</sugar>
+    <protein>44</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E5</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vörösboros marhapörkölt, párolt karotta</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>514</calorie>
+    <carbohydrate>36</carbohydrate>
+    <sugar>1</sugar>
+    <protein>38</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E5</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Rizses húsgombócok, paradicsomos zöldségraguban</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>546</calorie>
+    <carbohydrate>37</carbohydrate>
+    <sugar>2</sugar>
+    <protein>29</protein>
+    <fat>30</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>E6</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló ételek /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Eszterházy csirkemell</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>427</calorie>
+    <carbohydrate>18</carbohydrate>
+    <sugar>1</sugar>
+    <protein>40</protein>
+    <fat>20</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E6</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló ételek /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Lávakövön sült jércesteak, light majonézes tojássaláta</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>606</calorie>
+    <carbohydrate>11</carbohydrate>
+    <sugar>1</sugar>
+    <protein>48</protein>
+    <fat>40</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>9</salt>
+  </product>
+  <product>
+    <code>E6</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló ételek /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hideg pulykasült, brokkolisaláta burgonyával</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>498</calorie>
+    <carbohydrate>30</carbohydrate>
+    <sugar>1</sugar>
+    <protein>44</protein>
+    <fat>21</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E6</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló ételek /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkesteak, tejszínes, fahéjas gyümölcsmártás (alma, szilva)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>468</calorie>
+    <carbohydrate>31</carbohydrate>
+    <sugar>3</sugar>
+    <protein>45</protein>
+    <fat>17</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E6</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Alakformáló ételek /30-40 dkg/ Egészségkonyha Special </subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Füszerkéregben sült pulykamell, grillezett zöldségek</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>437</calorie>
+    <carbohydrate>24</carbohydrate>
+    <sugar>0</sugar>
+    <protein>48</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>EN1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkesteak, Párolt zöldség</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>454</calorie>
+    <carbohydrate>35</carbohydrate>
+    <sugar>0</sugar>
+    <protein>50</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EN1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült csirkecomb, Grillezett zöldségek</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>615</calorie>
+    <carbohydrate>28</carbohydrate>
+    <sugar>0</sugar>
+    <protein>58</protein>
+    <fat>28</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>EN1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Natúr grillkaraj, baconos, parmezános kelbimbó</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>597</calorie>
+    <carbohydrate>15</carbohydrate>
+    <sugar>0</sugar>
+    <protein>50</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>EN1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Viktória tavi sült fogas szelet, burgonyasaláta hamis majonézzel</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>454</calorie>
+    <carbohydrate>40</carbohydrate>
+    <sugar>2</sugar>
+    <protein>46</protein>
+    <fat>10</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>EN1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1195</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkesteak, Görög saláta</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>349</calorie>
+    <carbohydrate>9</carbohydrate>
+    <sugar>0</sugar>
+    <protein>44</protein>
+    <fat>14</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>EN2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkesteak, jázmin rizs</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>648</calorie>
+    <carbohydrate>78</carbohydrate>
+    <sugar>0</sugar>
+    <protein>48</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>EN2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sült csirkecomb, rizi-bizi</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>908</calorie>
+    <carbohydrate>86</carbohydrate>
+    <sugar>0</sugar>
+    <protein>65</protein>
+    <fat>32</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>EN2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Natúr grillkaraj, zöldborsós, karottás bulgur</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>635</calorie>
+    <carbohydrate>52</carbohydrate>
+    <sugar>0</sugar>
+    <protein>43</protein>
+    <fat>25</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>EN2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>1795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Viktória tavi sült fogas szelet, zöldséges rizs</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>612</calorie>
+    <carbohydrate>68</carbohydrate>
+    <sugar>0</sugar>
+    <protein>47</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>10</salt>
+  </product>
+  <product>
+    <code>EN2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory> Natúr fitnesz / 30-40 dkg</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csirkesteak, fűszeres rizs</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>651</calorie>
+    <carbohydrate>78</carbohydrate>
+    <sugar>0</sugar>
+    <protein>48</protein>
+    <fat>16</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>EF1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform kelkáposztafőzelék </details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>349</calorie>
+    <carbohydrate>31</carbohydrate>
+    <sugar>0</sugar>
+    <protein>10</protein>
+    <fat>19</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>EF1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform zöldbabfőzelék</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>257</calorie>
+    <carbohydrate>23</carbohydrate>
+    <sugar>0</sugar>
+    <protein>11</protein>
+    <fat>13</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>EF1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform magyaros zöldborsófőzelék</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>338</calorie>
+    <carbohydrate>41</carbohydrate>
+    <sugar>1</sugar>
+    <protein>19</protein>
+    <fat>10</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>EF1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform parajfőzelék</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>242</calorie>
+    <carbohydrate>22</carbohydrate>
+    <sugar>1</sugar>
+    <protein>13</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>EF1</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform finomfőzelék</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>193</calorie>
+    <carbohydrate>23</carbohydrate>
+    <sugar>1</sugar>
+    <protein>10</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>EF2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform kelkáposztafőzelék, Sertés sült</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>682</calorie>
+    <carbohydrate>36</carbohydrate>
+    <sugar>3</sugar>
+    <protein>40</protein>
+    <fat>40</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>EF2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform zöldbabfőzelék, sült csirke felsőcomb</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>602</calorie>
+    <carbohydrate>23</carbohydrate>
+    <sugar>0</sugar>
+    <protein>42</protein>
+    <fat>37</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>EF2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform magyaros zöldborsófőzelék, sertéspörkölt</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>662</calorie>
+    <carbohydrate>47</carbohydrate>
+    <sugar>2</sugar>
+    <protein>41</protein>
+    <fat>33</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>7</salt>
+  </product>
+  <product>
+    <code>EF2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform parajfőzelék, Natúr csirkemell</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>402</calorie>
+    <carbohydrate>21</carbohydrate>
+    <sugar>1</sugar>
+    <protein>36</protein>
+    <fat>18</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>EF2</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Reform fõzelékek/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Reform finomfőzelék, virsli (allergénmentes)</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>536</calorie>
+    <carbohydrate>25</carbohydrate>
+    <sugar>1</sugar>
+    <protein>26</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>14</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>V1</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli1/ Egészségkonyha Special </subCategory>
+    <price>699</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paprikás-hagymás fetakrém, 8 magvas mini tönkölybagett</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>401</calorie>
+    <carbohydrate>36</carbohydrate>
+    <sugar>1</sugar>
+    <protein>11</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>V1</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli1/ Egészségkonyha Special </subCategory>
+    <price>699</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sonkapástétom, kígyóuborka, tönkölykenyér</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>281</calorie>
+    <carbohydrate>26</carbohydrate>
+    <sugar>0</sugar>
+    <protein>18</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>V1</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli1/ Egészségkonyha Special </subCategory>
+    <price>599</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Házi májkrém zsályával, chilivel, tönkölykenyér, paradicsom</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>256</calorie>
+    <carbohydrate>30</carbohydrate>
+    <sugar>0</sugar>
+    <protein>21</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>V1</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli1/ Egészségkonyha Special </subCategory>
+    <price>299</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Kakaós-fahéjas zabkása tejjel</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>237</calorie>
+    <carbohydrate>34</carbohydrate>
+    <sugar>6</sugar>
+    <protein>11</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>V1</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli1/ Egészségkonyha Special </subCategory>
+    <price>599</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csicserikrém, sárgarépa hasábok, Joghurt</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>305</calorie>
+    <carbohydrate>36</carbohydrate>
+    <sugar>9</sugar>
+    <protein>15</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>V2</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli2/ Egészségkonyha Special </subCategory>
+    <price>599</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paprikás-hagymás fetakrém, abonett</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>287</calorie>
+    <carbohydrate>17</carbohydrate>
+    <sugar>1</sugar>
+    <protein>6</protein>
+    <fat>21</fat>
+    <saturatedFattyAcid>6</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>V2</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli2/ Egészségkonyha Special </subCategory>
+    <price>699</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Sonkapástétom, kígyóuborka, abonett</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>222</calorie>
+    <carbohydrate>15</carbohydrate>
+    <sugar>0</sugar>
+    <protein>15</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>3</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>V2</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli2/ Egészségkonyha Special </subCategory>
+    <price>599</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Házi májkrém zsályával, chilivel, paradicsom, abonett</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>198</calorie>
+    <carbohydrate>19</carbohydrate>
+    <sugar>0</sugar>
+    <protein>19</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>V2</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli2/ Egészségkonyha Special </subCategory>
+    <price>299</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Kakaós-fahéjas zabkása tejjel</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>237</calorie>
+    <carbohydrate>34</carbohydrate>
+    <sugar>6</sugar>
+    <protein>11</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>V2</code>
+    <category>Breakfast</category>
+    <subCategory>Reggeli2/ Egészségkonyha Special </subCategory>
+    <price>599</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csicserikrém, sárgarépa hasábok, Joghurt</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>305</calorie>
+    <carbohydrate>36</carbohydrate>
+    <sugar>9</sugar>
+    <protein>15</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>EV</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>
+    </subCategory>
+    <price>0</price>
+    <weeklyMenu>True</weeklyMenu>
+    <details>Csicserikrém, sárgarépa hasábok, Joghurt</details>
+    <whichDay>
+    </whichDay>
+    <soldOut>
+    </soldOut>
+    <calorie>
+    </calorie>
+    <carbohydrate>
+    </carbohydrate>
+    <sugar>
+    </sugar>
+    <protein>
+    </protein>
+    <fat>
+    </fat>
+    <saturatedFattyAcid>
+    </saturatedFattyAcid>
+    <salt>
+    </salt>
+  </product>
+  <product>
+    <code>EV</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán levesek</subCategory>
+    <price>395</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Gesztenyés csicserileves (vegán)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>120</calorie>
+    <carbohydrate>18</carbohydrate>
+    <sugar>0</sugar>
+    <protein>6</protein>
+    <fat>3</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EV</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán levesek</subCategory>
+    <price>495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Articsóka krémleves (vegán)</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>124</calorie>
+    <carbohydrate>19</carbohydrate>
+    <sugar>1</sugar>
+    <protein>3</protein>
+    <fat>4</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EV</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán levesek</subCategory>
+    <price>295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Korianderes kukoricaleves (vegán)</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>160</calorie>
+    <carbohydrate>20</carbohydrate>
+    <sugar>1</sugar>
+    <protein>4</protein>
+    <fat>7</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EV</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán levesek</subCategory>
+    <price>295</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Karfiolleves tésztával (vegán)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>110</calorie>
+    <carbohydrate>12</carbohydrate>
+    <sugar>0</sugar>
+    <protein>4</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>EV</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán levesek</subCategory>
+    <price>495</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vegán fejtettbab leves virslivel</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>304</calorie>
+    <carbohydrate>29</carbohydrate>
+    <sugar>1</sugar>
+    <protein>13</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E7</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vegán gombapaprikás, teljeskiőrlésű orsótészta</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>475</calorie>
+    <carbohydrate>59</carbohydrate>
+    <sugar>4</sugar>
+    <protein>22</protein>
+    <fat>15</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E7</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vegán Szejtán rizottó (magyarosan)</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>708</calorie>
+    <carbohydrate>91</carbohydrate>
+    <sugar>7</sugar>
+    <protein>26</protein>
+    <fat>25</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>8</salt>
+  </product>
+  <product>
+    <code>E7</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vegán Chili con veggie, barna rizs</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>781</calorie>
+    <carbohydrate>111</carbohydrate>
+    <sugar>1</sugar>
+    <protein>37</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>E7</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Vegán savanyú káposztás bab gerslivel</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>264</calorie>
+    <carbohydrate>39</carbohydrate>
+    <sugar>5</sugar>
+    <protein>12</protein>
+    <fat>4</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>12</salt>
+  </product>
+  <product>
+    <code>E7</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Hamis túrógombóc (vegán), gyümölcsöntet</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>398</calorie>
+    <carbohydrate>60</carbohydrate>
+    <sugar>5</sugar>
+    <protein>31</protein>
+    <fat>12</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E8</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Csicseriborsósólet (vegán)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>487</calorie>
+    <carbohydrate>74</carbohydrate>
+    <sugar>1</sugar>
+    <protein>21</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E8</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Cukkinis rizsgombócok paradicsommártásban</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>591</calorie>
+    <carbohydrate>93</carbohydrate>
+    <sugar>32</sugar>
+    <protein>9</protein>
+    <fat>20</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E8</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Édes-savanyú zöldséges metélt (vegán)</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>491</calorie>
+    <carbohydrate>80</carbohydrate>
+    <sugar>6</sugar>
+    <protein>17</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>5</salt>
+  </product>
+  <product>
+    <code>E8</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marokkói zöldséges kuszkusz (vegán)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>590</calorie>
+    <carbohydrate>109</carbohydrate>
+    <sugar>0</sugar>
+    <protein>26</protein>
+    <fat>6</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E8</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegán főétel</subCategory>
+    <price>505</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Zöldséges tarhonyasaláta (vegán)</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>418</calorie>
+    <carbohydrate>69</carbohydrate>
+    <sugar>4</sugar>
+    <protein>17</protein>
+    <fat>5</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E9</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus Low Carb ételek/ Egészségkonyha Special </subCategory>
+    <price>995</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Dubarry tofuszelet</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>599</calorie>
+    <carbohydrate>39</carbohydrate>
+    <sugar>2</sugar>
+    <protein>40</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>13</saturatedFattyAcid>
+    <salt>4</salt>
+  </product>
+  <product>
+    <code>E9</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus Low Carb ételek/ Egészségkonyha Special </subCategory>
+    <price>895</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Piros sajtos brokkoli</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>324</calorie>
+    <carbohydrate>27</carbohydrate>
+    <sugar>4</sugar>
+    <protein>21</protein>
+    <fat>14</fat>
+    <saturatedFattyAcid>8</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E9</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus Low Carb ételek/ Egészségkonyha Special </subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Böjti rakott káposzta gabonakolbásszal</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>637</calorie>
+    <carbohydrate>53</carbohydrate>
+    <sugar>7</sugar>
+    <protein>22</protein>
+    <fat>36</fat>
+    <saturatedFattyAcid>9</saturatedFattyAcid>
+    <salt>15</salt>
+  </product>
+  <product>
+    <code>E9</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus Low Carb ételek/ Egészségkonyha Special </subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Majorannás barnarizs lepény (ovo), tavaszi káposztasaláta</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>366</calorie>
+    <carbohydrate>61</carbohydrate>
+    <sugar>0</sugar>
+    <protein>11</protein>
+    <fat>9</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>E9</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus Low Carb ételek/ Egészségkonyha Special </subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Marokkói bab (vegán)</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>399</calorie>
+    <carbohydrate>50</carbohydrate>
+    <sugar>0</sugar>
+    <protein>33</protein>
+    <fat>11</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>E10</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus</subCategory>
+    <price>1095</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tofuburger (vegán bucival)</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>523</calorie>
+    <carbohydrate>67</carbohydrate>
+    <sugar>4</sugar>
+    <protein>24</protein>
+    <fat>24</fat>
+    <saturatedFattyAcid>0</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E10</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Parajos, tejszínes penne</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>579</calorie>
+    <carbohydrate>78</carbohydrate>
+    <sugar>7</sugar>
+    <protein>26</protein>
+    <fat>17</fat>
+    <saturatedFattyAcid>7</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E10</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Tejszínes, gombás galuska</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>809</calorie>
+    <carbohydrate>109</carbohydrate>
+    <sugar>4</sugar>
+    <protein>32</protein>
+    <fat>26</fat>
+    <saturatedFattyAcid>5</saturatedFattyAcid>
+    <salt>11</salt>
+  </product>
+  <product>
+    <code>E10</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus</subCategory>
+    <price>595</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Pikáns rizses lencse (vegán)</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>746</calorie>
+    <carbohydrate>116</carbohydrate>
+    <sugar>0</sugar>
+    <protein>38</protein>
+    <fat>13</fat>
+    <saturatedFattyAcid>1</saturatedFattyAcid>
+    <salt>3</salt>
+  </product>
+  <product>
+    <code>E10</code>
+    <category>HealthyCuisineSpecial1</category>
+    <subCategory>Vegetáriánus</subCategory>
+    <price>795</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Paprikás krumpli füstölt tofuval (vegán)</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>584</calorie>
+    <carbohydrate>75</carbohydrate>
+    <sugar>0</sugar>
+    <protein>19</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>2</saturatedFattyAcid>
+    <salt>6</salt>
+  </product>
+  <product>
+    <code>MM</code>
+    <category>AllFreeDessert</category>
+    <subCategory> Minden mentes desszert 100g</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Gyümölcskenyér</details>
+    <whichDay>Monday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>257</calorie>
+    <carbohydrate>29</carbohydrate>
+    <sugar>14</sugar>
+    <protein>8</protein>
+    <fat>13</fat>
+    <saturatedFattyAcid>4</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>MM</code>
+    <category>AllFreeDessert</category>
+    <subCategory> Minden mentes desszert 100g</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Spenótos levél</details>
+    <whichDay>Tuesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>298</calorie>
+    <carbohydrate>20</carbohydrate>
+    <sugar>0</sugar>
+    <protein>5</protein>
+    <fat>22</fat>
+    <saturatedFattyAcid>10</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+  <product>
+    <code>MM</code>
+    <category>AllFreeDessert</category>
+    <subCategory> Minden mentes desszert 100g</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Növényi sajtos leveles kocka</details>
+    <whichDay>Wednesday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>389</calorie>
+    <carbohydrate>23</carbohydrate>
+    <sugar>1</sugar>
+    <protein>5</protein>
+    <fat>30</fat>
+    <saturatedFattyAcid>15</saturatedFattyAcid>
+    <salt>2</salt>
+  </product>
+  <product>
+    <code>MM</code>
+    <category>AllFreeDessert</category>
+    <subCategory> Minden mentes desszert 100g</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Kókusz kocka</details>
+    <whichDay>Thursday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>326</calorie>
+    <carbohydrate>25</carbohydrate>
+    <sugar>8</sugar>
+    <protein>3</protein>
+    <fat>23</fat>
+    <saturatedFattyAcid>10</saturatedFattyAcid>
+    <salt>0</salt>
+  </product>
+  <product>
+    <code>MM</code>
+    <category>AllFreeDessert</category>
+    <subCategory> Minden mentes desszert 100g</subCategory>
+    <price>695</price>
+    <weeklyMenu>False</weeklyMenu>
+    <details>Savanyú káposztás levél</details>
+    <whichDay>Friday</whichDay>
+    <soldOut>True</soldOut>
+    <calorie>313</calorie>
+    <carbohydrate>16</carbohydrate>
+    <sugar>0</sugar>
+    <protein>4</protein>
+    <fat>25</fat>
+    <saturatedFattyAcid>10</saturatedFattyAcid>
+    <salt>1</salt>
+  </product>
+</products>
