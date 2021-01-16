@@ -1,4 +1,4 @@
-﻿- check the thief(10 m)
+﻿- Check the thief (10 m)
 - UI Categoriefilter implementation (3 hour)
 - Job implementation (5 hour)
 - Job generate the combinations (to db or file), save these combinations in a file, and modify the logic to it (8 hour)
