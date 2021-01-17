@@ -8,6 +8,6 @@ namespace Menu_Generator.Thief
 {
     public interface IProductCreator
     {
-        Products Get(DownLoadedData downloadData);
+        Products Create(DownLoadedData downloadData);
     }
 }

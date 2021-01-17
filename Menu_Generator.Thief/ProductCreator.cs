@@ -34,7 +34,7 @@ namespace Menu_Generator.Thief
         private bool soldOut = default(bool);
         #endregion
 
-        public Products Get(DownLoadedData downloadData)
+        public Products Create(DownLoadedData downloadData)
         {
             foreach (string[] arrayData in downloadData.Data)
             {
