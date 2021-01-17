@@ -10,7 +10,7 @@ namespace Menu_Generator.Thief
 {
     public class XmlGenerator : IXmlGenerator
     {
-        public XmlDocument Get(Products products)
+        public XmlDocument Generate(Products products)
         {
             XmlDocument doc = new XmlDocument();
             XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);

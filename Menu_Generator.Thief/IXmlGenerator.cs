@@ -9,6 +9,6 @@ namespace Menu_Generator.Thief
 {
     public interface IXmlGenerator
     {
-        XmlDocument Get(Products products);
+        XmlDocument Generate(Products products);
     }
 }
