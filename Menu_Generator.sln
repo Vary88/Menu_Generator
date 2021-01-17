@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu_Generator_Api", "Menu_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu_Generator.Core", "Menu_Generator.Core\Menu_Generator.Core.csproj", "{73011B06-F352-4F14-A32C-B56FB7FE5BA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Generator.Thief", "Menu_Generator.Thief\Menu_Generator.Thief.csproj", "{CA69B38F-ADF4-4EB1-A9C3-1A0BC34BD65B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu_Generator.Thief", "Menu_Generator.Thief\Menu_Generator.Thief.csproj", "{CA69B38F-ADF4-4EB1-A9C3-1A0BC34BD65B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Generator.Common", "Menu_Generator.Common\Menu_Generator.Common.csproj", "{584F5B25-89D6-4BE6-B489-D00C7CBAB1AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu_Generator.Common", "Menu_Generator.Common\Menu_Generator.Common.csproj", "{584F5B25-89D6-4BE6-B489-D00C7CBAB1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimusTestPad", "OptimusTestPad\OptimusTestPad.csproj", "{00DAB3FB-A94A-4424-BDA5-4EC5CBA4AB40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{584F5B25-89D6-4BE6-B489-D00C7CBAB1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584F5B25-89D6-4BE6-B489-D00C7CBAB1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584F5B25-89D6-4BE6-B489-D00C7CBAB1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DAB3FB-A94A-4424-BDA5-4EC5CBA4AB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DAB3FB-A94A-4424-BDA5-4EC5CBA4AB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DAB3FB-A94A-4424-BDA5-4EC5CBA4AB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DAB3FB-A94A-4424-BDA5-4EC5CBA4AB40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
