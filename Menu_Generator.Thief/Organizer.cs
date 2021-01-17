@@ -6,7 +6,7 @@ using Menu_Generator.Thief.Model;
 
 namespace Menu_Generator.Thief
 {
-    public class OrganizerData
+    public class Organizer
     {
         #region Fields
         private string categoryColor = string.Empty;
@@ -34,7 +34,7 @@ namespace Menu_Generator.Thief
         private bool soldOut = default(bool);
         #endregion
 
-        public Products Organizer(DownLoadedData downloadData)
+        public Products OrganizerData(DownLoadedData downloadData)
         {
             foreach (string[] arrayData in downloadData.Data)
             {

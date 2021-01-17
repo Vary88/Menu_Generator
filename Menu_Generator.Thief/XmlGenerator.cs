@@ -8,9 +8,9 @@ using Menu_Generator.Thief.Model;
 
 namespace Menu_Generator.Thief
 {
-    public class CreateXml
+    public class XmlGenerator
     {
-        public void Create(Products products, string filePath)
+        public void Generate(Products products, string filePath)
         {
             XmlDocument doc = new XmlDocument();
             XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);
