@@ -13,13 +13,12 @@ namespace OptimusTestPad
             //var currentDirectory = Directory.GetCurrentDirectory();
             //var purchaseOrderFilepath = Path.Combine($"{currentDirectory}/../../..", filename);
 
-
             var sourceUrl = "https://egeszsegkonyha.hu/index.php/etlapunk?week=202103";
             var targetFilePath = @"d:\work\FHCN\OptimusTestPad\Products.xml";
-
             var xmlRooting = new XmlRooting(sourceUrl, targetFilePath);
 
-            Service.Processor(xmlRooting);
+            var service = new Service();
+            service.Processor(xmlRooting);
         }
     }
 }

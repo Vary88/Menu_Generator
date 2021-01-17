@@ -8,7 +8,7 @@ namespace Menu_Generator.Thief
 {
     public class Service
     {
-        public static void Processor(XmlRooting xmlRooting)
+        public void Processor(XmlRooting xmlRooting)
         {
             var downloadData = new DownloadData();
             DownLoadedData downloadedData = downloadData.Get(xmlRooting.SourceUrl);
