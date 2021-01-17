@@ -9,7 +9,7 @@ using Menu_Generator.Thief.Model;
 
 namespace Menu_Generator.Thief
 {
-    public class Downloader
+    public class Downloader : IDownloader
     {
         public DownLoadedData Get(string url)
         {
