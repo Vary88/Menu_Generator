@@ -10,8 +10,7 @@ namespace Menu_Generator.Thief
 {
     public class CreateXml
     {
-        private CreateXml() { }
-        public static void Create(Products products, string filePath)
+        public void Create(Products products, string filePath)
         {
             XmlDocument doc = new XmlDocument();
             XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);

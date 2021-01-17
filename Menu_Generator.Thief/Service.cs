@@ -10,9 +10,14 @@ namespace Menu_Generator.Thief
     {
         public static void Processor(XmlRooting xmlRooting)
         {
-            DownLoadedData downloadData = DownloadData.Get(xmlRooting.SourceUrl);
-            Products products = OrganizerData.Organizer(downloadData);
-            CreateXml.Create(products, xmlRooting.TargetFilePath);
+            var downloadData = new DownloadData();
+            DownLoadedData downloadedData = downloadData.Get(xmlRooting.SourceUrl);
+
+            var organizerData = new OrganizerData();
+            var products = organizerData.Organizer(downloadedData);
+
+            var createXml = new CreateXml();
+            createXml.Create(products, xmlRooting.TargetFilePath);
         }
     }
 }

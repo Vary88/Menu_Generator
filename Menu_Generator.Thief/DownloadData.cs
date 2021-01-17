@@ -11,12 +11,7 @@ namespace Menu_Generator.Thief
 {
     public class DownloadData
     {
-        private DownloadData() 
-        {
-
-        }
-        
-        public static DownLoadedData Get(string url)
+        public DownLoadedData Get(string url)
         {
             SetCurrentWeek(url);
 
@@ -60,7 +55,7 @@ namespace Menu_Generator.Thief
             return new DownLoadedData(importantData);
         }
         
-        private static void SetCurrentWeek(string url)
+        private void SetCurrentWeek(string url)
         {
             DateTime time = DateTime.Now;
             DayOfWeek day = CultureInfo.InvariantCulture.Calendar.GetDayOfWeek(time);

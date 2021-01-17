@@ -8,38 +8,33 @@ namespace Menu_Generator.Thief
 {
     public class OrganizerData
     {
-        #region constructor, variables
-        private OrganizerData() 
-        {
+        #region Fields
+        private string categoryColor = string.Empty;
+        private List<Product> products = new List<Product>();
+        private int tempWhichDay = 1;
+        private bool tempWhichDayAssist = default(bool);
+        private string tempSubCategory = string.Empty;
+        private bool isRealProduct = default(bool);
+        private bool isBreak = default(bool);
 
-        }
-
-        private static string categoryColor = string.Empty;
-        private static List<Product> products = new List<Product>();
-        private static int tempWhichDay = 1;
-        private static bool tempWhichDayAssist = default(bool);
-        private static string tempSubCategory = string.Empty;
-        private static bool isRealProduct = default(bool);
-        private static bool isBreak = default(bool);
-
-        private static string code = string.Empty;
-        private static string category = string.Empty;
-        private static string subCategory = string.Empty;
-        private static int price = default(int);
-        private static bool weeklyMenu = default(bool);
-        private static string details = string.Empty;
-        private static string whichDay = string.Empty;
-        private static int calorie = default(int);
-        private static int carbohydrate = default(int);
-        private static int protein = default(int);
-        private static int fat = default(int);
-        private static int salt = default(int);
-        private static int saturatedFattyAcid = default(int);
-        private static int sugar = default(int);
-        private static bool soldOut = default(bool);
+        private string code = string.Empty;
+        private string category = string.Empty;
+        private string subCategory = string.Empty;
+        private int price = default(int);
+        private bool weeklyMenu = default(bool);
+        private string details = string.Empty;
+        private string whichDay = string.Empty;
+        private int calorie = default(int);
+        private int carbohydrate = default(int);
+        private int protein = default(int);
+        private int fat = default(int);
+        private int salt = default(int);
+        private int saturatedFattyAcid = default(int);
+        private int sugar = default(int);
+        private bool soldOut = default(bool);
         #endregion
-        #region public method
-        public static Products Organizer(DownLoadedData downloadData)
+
+        public Products Organizer(DownLoadedData downloadData)
         {
             foreach (string[] arrayData in downloadData.Data)
             {
@@ -174,10 +169,9 @@ namespace Menu_Generator.Thief
 
             return new Products(products);
         }
-        #endregion
 
         #region PrivateMethods
-        private static void PriceOrganizer(string arrayData)
+        private void PriceOrganizer(string arrayData)
         {
             StringBuilder builder = new StringBuilder();
             string tempPrice = arrayData.Split("class=\"etlapar\">")[1].Split("Ft</div>")[0].Trim();
@@ -195,7 +189,7 @@ namespace Menu_Generator.Thief
                 price = 0;
             }
         }
-        private static void DetailsOrganizer(string paramDetails)
+        private void DetailsOrganizer(string paramDetails)
         {
             string[] detailsElement = paramDetails.Split("data-cikkno=");
             details = detailsElement[1].Split("mealname\">")[1].Split("\"")[0];
@@ -230,7 +224,7 @@ namespace Menu_Generator.Thief
                 }
             }
         }
-        private static void CategoryOrganizer(string categoryColor)
+        private void CategoryOrganizer(string categoryColor)
         {
             switch (categoryColor)
             {
@@ -272,7 +266,7 @@ namespace Menu_Generator.Thief
                     break;
             }
         }
-        private static void DayOrganizer(int tempWhichDay)
+        private void DayOrganizer(int tempWhichDay)
         {
             switch (tempWhichDay)
             {
