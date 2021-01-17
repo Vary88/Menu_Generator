@@ -8,9 +8,9 @@ using Menu_Generator.Thief.Model;
 
 namespace Menu_Generator.Thief
 {
-    public class XmlGenerator
+    public class XmlGenerator : IXmlGenerator
     {
-        public void Generate(Products products, string filePath)
+        public XmlDocument Get(Products products)
         {
             XmlDocument doc = new XmlDocument();
             XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);
@@ -99,7 +99,8 @@ namespace Menu_Generator.Thief
                 salt.AppendChild(saltValue);
                 xProduct.AppendChild(salt);
             }
-            doc.Save(filePath);
+
+            return doc;
         }
     }
 }
