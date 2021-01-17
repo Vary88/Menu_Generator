@@ -6,7 +6,7 @@ using System.Xml;
 using Menu_Generator.Common;
 using Menu_Generator.Thief.Model;
 
-namespace Menu_Generator.Thief.Logic
+namespace Menu_Generator.Thief
 {
     public class CreateXml
     {
