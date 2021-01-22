@@ -26,7 +26,7 @@ namespace Menu_Generator
                 Protein = 168,
                 Fat = 129,
                 IsMenuIncluded = false,
-                CategoriesFilters = new List<CategoriesFilter>()
+                CategoryFilters = new List<CategoriesFilter>()
                 {
                     new CategoriesFilter()
                     {
@@ -59,7 +59,7 @@ namespace Menu_Generator
             Console.WriteLine($"Protein: {getMenuRequest.Protein}");
             Console.WriteLine($"Carbohydrate: {getMenuRequest.CH}");
             Console.WriteLine($"Fat: {getMenuRequest.Fat}");
-            getMenuRequest.CategoriesFilters.ForEach(x => Console.WriteLine($"{x.Category}: {x.AmountAtLeast} db."));
+            getMenuRequest.CategoryFilters.ForEach(x => Console.WriteLine($"{x.Category}: {x.AmountAtLeast} db."));
 
             Console.WriteLine();
             Console.WriteLine();

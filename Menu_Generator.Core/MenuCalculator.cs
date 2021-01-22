@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 
 namespace Menu_Generator.Core
@@ -11,10 +12,11 @@ namespace Menu_Generator.Core
             List<ProductWrapper> result = new List<ProductWrapper>();
             var allProduct = getMenuRequest.IsMenuIncluded ? products : products.Where(x => !x.IsMenu).ToList();
 
-            var usableProducts = getMenuRequest.CategoriesFilters.Any() ? products.Where(x => getMenuRequest.CategoriesFilters.Any(c => c.Category.ToString() == x.Category)) : allProduct;
-            //var allAmount = getMenuRequest.CategoriesFilters.Sum(x => x.AmountAtLeast);
+            var usableProducts = getMenuRequest.CategoryFilters.Any() ? products.Where(x => getMenuRequest.CategoryFilters.Any(c => c.Category.ToString() == x.Category)) : allProduct;
 
             List<IEnumerable<ProductWrapper>> combinations = new List<IEnumerable<ProductWrapper>>();
+
+            //TODO: restrict the max number of i (i means how many items will be in the set) --> maybe 10 different food will be enough
             for (int i = 1; i <= usableProducts.Count(); i++)
             {
                 combinations.AddRange(usableProducts.DifferentCombinations(i).ToList());
@@ -22,7 +24,7 @@ namespace Menu_Generator.Core
 
             var selectedCombination = new List<IEnumerable<ProductWrapper>>();
 
-            foreach (var categoryFilter in getMenuRequest.CategoriesFilters)
+            foreach (var categoryFilter in getMenuRequest.CategoryFilters)
             {
                 combinations.RemoveAll(combination => combination.Where(cx => cx.Category == categoryFilter.Category.ToString()).Count() < categoryFilter.AmountAtLeast);    
             }

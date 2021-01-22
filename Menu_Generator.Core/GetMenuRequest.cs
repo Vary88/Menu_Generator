@@ -8,7 +8,7 @@ namespace Menu_Generator.Core
     {
         public GetMenuRequest()
         {
-            this.CategoriesFilters = new List<CategoriesFilter>();
+            this.CategoryFilters = new List<CategoriesFilter>();
         }    
 
         public int? CH { get; set; }
@@ -18,7 +18,7 @@ namespace Menu_Generator.Core
         public int? ProteinFlexibility { get; set; }
         public int? FatFlexibility { get; set; }
         public bool IsMenuIncluded { get; set; }
-        public List<CategoriesFilter> CategoriesFilters { get; set; }
+        public List<CategoriesFilter> CategoryFilters { get; set; }
         public DayOfWeek Day { get; set; }
     }
 }

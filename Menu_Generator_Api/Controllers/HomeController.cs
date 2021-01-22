@@ -22,7 +22,7 @@ namespace Menu_Generator_Api.Controllers
 
         public IActionResult Index()
         {
-            return View(new IndexVM());
+            return View(new IndexVM() { SelectedCategoryFilters = new List<CategoriesFilter>() { new CategoriesFilter() { AmountAtLeast = 2, Category = Categories.Dish } } });
         }
 
         [HttpPost]
@@ -39,33 +39,14 @@ namespace Menu_Generator_Api.Controllers
                 FatFlexibility = param.FatFlexibility,
                 IsMenuIncluded = false,
                 Day = DayOfWeek.Tuesday,
-                CategoriesFilters = new List<CategoriesFilter>()
-                {
-                    new CategoriesFilter()
-                    {
-                        Category = Categories.Breakfast,
-                        AmountAtLeast = 1,
-                        AmountFlexible_Plus = 4
-                    },
-                    new CategoriesFilter()
-                    {
-                        Category = Categories.Soup,
-                        AmountAtLeast = 1,
-                        AmountFlexible_Plus = 2
-                    },
-                    new CategoriesFilter()
-                    {
-                        Category = Categories.Freshschnitzel,
-                        AmountAtLeast = 2,
-                        AmountFlexible_Plus = 6
-                    },
-                    new CategoriesFilter()
-                    {
-                        Category = Categories.Dish,
-                        AmountAtLeast = 2,
-                        AmountFlexible_Plus = 6
-                    }
-                }
+                CategoryFilters = param.SelectedCategoryFilters // new List<CategoriesFilter>()
+                //{
+                //    new CategoriesFilter()
+                //    {
+                //        AmountAtLeast = 2,
+                //        Category = Categories.Soup
+                //    }
+                //}
             };
 
             //Use DI

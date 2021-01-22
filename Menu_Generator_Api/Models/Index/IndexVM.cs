@@ -18,6 +18,7 @@ namespace Menu_Generator_Api.Models
         public int? CarboHydrateFlexibility { get; set; }
         public int? ProteinFlexibility { get; set; }
         public int? FatFlexibility { get; set; }
+        public List<CategoriesFilter> SelectedCategoryFilters { get; set; }
         public List<IEnumerable<ProductWrapper>> Menus { get; set; }
     }
 }

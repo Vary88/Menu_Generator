@@ -1,7 +1,10 @@
 ﻿@model IndexVM
+@using Menu_Generator.Core
 @{
     ViewData["Title"] = "Home Page";
 }
+
+<script src="~/js/script.js"></script>
 
 <!-- Loader -->
 <div id="loader-wrapper">
@@ -32,6 +35,26 @@
                         <label for="fat">Zsír:</label>
                         <input type="number" id="fat" name="fat" placeholder="Ha nem fontos, hagyd üresen" />
                         <input type="number" id="fatFlexibility" name="fatFlexibility" />
+                    </div>
+
+                    <div>
+                        <button type="button" id="btnAddCategoryFilter">+</button>
+                    </div>
+
+                    <div id="categoryContainer">
+
+                    </div>
+
+                    <div style="display: none;" name="categoryTemplate">
+                        <label for="category">Kategória:</label>
+                        <select onchange="selectedFilterChanged(this)" asp-items="Html.GetEnumSelectList(typeof (Categories))"></select>
+                        <input type="hidden" name="SelectedCategoryFilters[index].Category" value="0"/>
+
+                        <label for="category">Mennyiség:</label>
+                        <input onchange="selectedFilterChanged(this)" type="number" id="amountAtLeast" name="amountAtLeast" />
+                        <input type="hidden" name="SelectedCategoryFilters[index].AmountAtLeast" value="0"/>
+
+                        <button onclick="removeCategoryFilter(this);" type="button">X</button>
                     </div>
 
                     @foreach (var menu in Model.Menus)
@@ -70,11 +93,3 @@
 <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
 <script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
 <script type="text/javascript" src="slick/slick.min.js"></script> <!-- Slick Carousel -->
-
-<script>
-
-    $(document).ready(function () {
-        //TODO: a categoryfilter részt + gombra kattintva kigenerálni
-    })
-
-</script>
