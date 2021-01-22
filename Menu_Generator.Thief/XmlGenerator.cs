@@ -1,16 +1,16 @@
-﻿using Menu_Generator.Common;
-using Menu_Generator.Thief.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Xml;
 
-namespace Menu_Generator.Thief.Logic
+using Menu_Generator.Common;
+using Menu_Generator.Thief.Model;
+
+namespace Menu_Generator.Thief
 {
-    public class CreateXml
+    public class XmlGenerator : IXmlGenerator
     {
-        private CreateXml() { }
-        public static void Create(List<ProductDajer> products, string filePath)
+        public XmlDocument Generate(Products products)
         {
             XmlDocument doc = new XmlDocument();
             XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);
@@ -19,7 +19,7 @@ namespace Menu_Generator.Thief.Logic
             XmlElement xProducts = doc.CreateElement(string.Empty, "Produts", string.Empty);
             doc.AppendChild(xProducts);
 
-            foreach (ProductDajer product in products)
+            foreach (Product product in products.Items)
             {
                 XmlElement xProduct = doc.CreateElement(string.Empty, "Product", string.Empty);
                 xProducts.AppendChild(xProduct);
@@ -99,7 +99,8 @@ namespace Menu_Generator.Thief.Logic
                 salt.AppendChild(saltValue);
                 xProduct.AppendChild(salt);
             }
-            doc.Save(filePath);
+
+            return doc;
         }
     }
 }

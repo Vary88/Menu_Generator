@@ -1,48 +1,49 @@
-﻿using Menu_Generator.Thief.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Menu_Generator.Thief.Logic
-{
-    public class OrganizerData
-    {
-        #region constructor, variables
-        private OrganizerData() { }
-        private static string categoryColor = string.Empty;
-        private static List<ProductDajer> products = new List<ProductDajer>();
-        private static int tempWhichDay = 1;
-        private static bool tempWhichDayAssist = default(bool);
-        private static string tempSubCategory = string.Empty;
-        private static bool isRealProduct = default(bool);
-        private static bool isBreak = default(bool);
+using Menu_Generator.Thief.Model;
 
-        private static string code = string.Empty;
-        private static string category = string.Empty;
-        private static string subCategory = string.Empty;
-        private static int price = default(int);
-        private static bool weeklyMenu = default(bool);
-        private static string details = string.Empty;
-        private static string whichDay = string.Empty;
-        private static int calorie = default(int);
-        private static int carbohydrate = default(int);
-        private static int protein = default(int);
-        private static int fat = default(int);
-        private static int salt = default(int);
-        private static int saturatedFattyAcid = default(int);
-        private static int sugar = default(int);
-        private static bool soldOut = default(bool);
+namespace Menu_Generator.Thief
+{
+    public class ProductCreator : IProductCreator
+    {
+        #region Fields
+        private string categoryColor = string.Empty;
+        private List<Product> products = new List<Product>();
+        private int tempWhichDay = 1;
+        private bool tempWhichDayAssist = default(bool);
+        private string tempSubCategory = string.Empty;
+        private bool isRealProduct = default(bool);
+        private bool isBreak = default(bool);
+
+        private string code = string.Empty;
+        private string category = string.Empty;
+        private string subCategory = string.Empty;
+        private int price = default(int);
+        private bool weeklyMenu = default(bool);
+        private string details = string.Empty;
+        private string whichDay = string.Empty;
+        private int calorie = default(int);
+        private int carbohydrate = default(int);
+        private int protein = default(int);
+        private int fat = default(int);
+        private int salt = default(int);
+        private int saturatedFattyAcid = default(int);
+        private int sugar = default(int);
+        private bool soldOut = default(bool);
         #endregion
-        #region public method
-        public static List<ProductDajer> Organizer(List<string[]> downloadData)
+
+        public Products Create(DownLoadedData downloadData)
         {
-            foreach (string[] arrayData in downloadData)
+            foreach (string[] arrayData in downloadData.Data)
             {
                 if (isBreak)
                 {
                     isBreak = false;
                     break;
                 }
+                
                 for (int i = 0; i < arrayData.Length; i++)
                 {
                     if (i == 0)
@@ -55,6 +56,7 @@ namespace Menu_Generator.Thief.Logic
                             category = "AllFreeDessert";
                         }
                     }
+                    
                     if (i == 1)
                     {
                         if (code.Contains("M") && code != "MM" && !code.Contains("GM"))
@@ -67,32 +69,21 @@ namespace Menu_Generator.Thief.Logic
                             tempSubCategory = arrayData[i].Split("<i>")[1].Split("</i>")[0];
                         }
                     }
+                    
                     if (i == 2)
                     {
                         if (!arrayData[i].Contains("</i>"))
                         {
                             PriceOrganizer(arrayData[i]);
                             weeklyMenu = true;
-                            products.Add(ProductDajer.Create
-                                (
-                                code,
-                                category,
-                                null,
-                                price,
-                                weeklyMenu,
-                                details,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null,
-                                null
-                                ));
+                            products.Add(new Product(code,
+                                    category: category,
+                                    price: price,
+                                    weeklyMenu: weeklyMenu,
+                                    details: details));
                         }
                     }
+                    
                     if (i > 4)
                     {
                         if (arrayData[i].Contains("<td class=\"etlapcella col-nap"))
@@ -106,61 +97,68 @@ namespace Menu_Generator.Thief.Logic
                                 DetailsOrganizer(arrayData[i].Split("data-kaloria=")[1].Split("</span>")[0]);
                             }
                         }
+                        
                         if (arrayData[i].Contains("\"etlapar\">"))
                         {
                             isRealProduct = true;
                             PriceOrganizer(arrayData[i]);
                         }
+                        
                         if (arrayData[i].Contains("ELFOGYOTT!"))
                         {
                             soldOut = true;
                         }
+                        
                         if (arrayData[i] == "</td>")
                         {
                             if (!code.Contains("M") && !code.Contains("GM"))
                             {
                                 subCategory = tempSubCategory;
                             }
+                            
                             else
                             {
                                 subCategory = tempSubCategory.Split(" Heti Menü")[0];
                             }
+                            
                             DayOrganizer(tempWhichDay);
                             weeklyMenu = false;
+
                             if (isRealProduct && !code.Contains("GM"))
                             {
-                                products.Add(ProductDajer.Create
-                                   (
-                                   code,
-                                   category,
-                                   subCategory,
-                                   price,
-                                   weeklyMenu,
-                                   details,
-                                   whichDay,
-                                   soldOut,
-                                   calorie,
-                                   carbohydrate,
-                                   sugar,
-                                   protein,
-                                   fat,
-                                   saturatedFattyAcid,
-                                   salt
-                                   ));
+                                products.Add(new Product(code,
+                                        category,
+                                        subCategory,
+                                        price,
+                                        weeklyMenu,
+                                        details,
+                                        whichDay,
+                                        soldOut,
+                                        calorie,
+                                        carbohydrate,
+                                        sugar,
+                                        protein,
+                                        fat,
+                                        saturatedFattyAcid,
+                                        salt));
                             }
                             tempWhichDayAssist = false;
+
                             if (tempWhichDay == 5)
                             {
                                 tempWhichDayAssist = true;
                                 tempWhichDay = 1;
                             }
+
                             if (!weeklyMenu && !tempWhichDayAssist && isRealProduct)
                             {
                                 tempWhichDay++;
                             }
+
                             isRealProduct = false;
                         }
                     }
+
                     if (arrayData[i].Contains("Fine Dining"))
                     {
                         isBreak = true;
@@ -168,14 +166,16 @@ namespace Menu_Generator.Thief.Logic
                     }
                 }
             }
-            return products;
+
+            return new Products(products);
         }
-        #endregion
-        #region private methods
-        private static void PriceOrganizer(string arrayData)
+
+        #region PrivateMethods
+        private void PriceOrganizer(string arrayData)
         {
             StringBuilder builder = new StringBuilder();
             string tempPrice = arrayData.Split("class=\"etlapar\">")[1].Split("Ft</div>")[0].Trim();
+            
             foreach (char item in tempPrice)
             {
                 if (item != ' ')
@@ -183,16 +183,18 @@ namespace Menu_Generator.Thief.Logic
                     builder.Append(item);
                 }
             }
+
             if (!Int32.TryParse(builder.ToString(), out price))
             {
                 price = 0;
             }
         }
-        private static void DetailsOrganizer(string paramDetails)
+        private void DetailsOrganizer(string paramDetails)
         {
             string[] detailsElement = paramDetails.Split("data-cikkno=");
             details = detailsElement[1].Split("mealname\">")[1].Split("\"")[0];
             string[] ingredients = detailsElement[0].Split("=");
+
             for (int i = 0; i < ingredients.Length; i++)
             {
                 int ingredient = Convert.ToInt32(ingredients[i].Split(" ")[0]);
@@ -222,7 +224,7 @@ namespace Menu_Generator.Thief.Logic
                 }
             }
         }
-        private static void CategoryOrganizer(string categoryColor)
+        private void CategoryOrganizer(string categoryColor)
         {
             switch (categoryColor)
             {
@@ -264,7 +266,7 @@ namespace Menu_Generator.Thief.Logic
                     break;
             }
         }
-        private static void DayOrganizer(int tempWhichDay)
+        private void DayOrganizer(int tempWhichDay)
         {
             switch (tempWhichDay)
             {

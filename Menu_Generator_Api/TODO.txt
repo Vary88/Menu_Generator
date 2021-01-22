@@ -1,4 +1,5 @@
-﻿- UI Categoryfilter implementation (3 hour) -- (DONE)
+﻿- Check the thief (10 m) (DONE)
+- UI Categoryfilter implementation (3 hour) -- (DONE)
 - Job implementation (5 hour)
 - Job generate the combinations (to db or file), save these combinations in a file, and modify the logic to it (8 hour)
 - UI datepicker to choose a day, and modify the logic on server side (4 hour)
